@@ -1,4 +1,3 @@
-
 #EXTM3U
 #EXTINF:-1 tvg-id="Bangla TV" tvg-name="Bangla TV" tvg-logo="https://edge01.iptv.digiBangla.net/static/atn_bangla.png", ATN Bangla
 https://bdixtv.nayeemparvez.tech/api/Bangla.m3u8?id=atn_bangla
