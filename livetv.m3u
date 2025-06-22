@@ -1,269 +1,37 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
+
+--------------------------------------- BANGLA ---------------------------------------
 #EXTINF:-1 tvg-id="btvworld.bd" tvg-name="BTV WORLD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/omb95u4hetmf3ns17zjt7/BTV-WORLD.png?rlkey=qnlzk38c477ptp0jfpb5xumvl&st=3r3sfvso&" group-title="Bangladeshi",BTV WORLD
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA--NpWI16nUzntdc3QeimzQ
-#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="T SPORTS HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/wnq7sjxevxipizc61t35r/T-SPORTS-HD.jpg?rlkey=kf4x8mi8l9wz3a941ks5nh870&st=is8wa38x&" group-title="Bangladeshi",T SPORTS HD
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA_EZvRERoc3gLd1P3fd64kk
 #EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="ASIAN TV HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/i0ufvixgxspmxh93prx6p/ASIAN-TV-HD.png?rlkey=a3cw0hcuvookin3ac3ikb8hgu&st=psqo7gzl&" group-title="Bangladeshi",ASIAN TV HD
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA3oPDxxNOHaf1vCi1T6JNGA
 #EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="ATN BANGLA" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/p35oj1s2tv0f3ll97lmo2/ATN-BANGLA.svg?rlkey=ca3xgy299ljg2ptlbwfozfhx8&st=zlpeijcd&" group-title="Bangladeshi",ATN BANGLA
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA4XcHuahYnOSqNLrioPHoVI
-#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="ATN NEWS" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ara4sv0we8ojn2yzjt8p4/ATN-NEWS.png?rlkey=0stgfr3h2fnlbco4bom4xpsbw&st=lxyn4n7f&" group-title="Bangladeshi",ATN NEWS
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAxbr7tznLQfRHlkqWyjbZrc
 #EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="BANGLA VISION" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/oao6vqqa5fktt4hq6x615/BANGLA-VISION.png?rlkey=con204eorwy82m30an90r9tpa&st=2cs8wl8f&" group-title="Bangladeshi",BANGLA VISION
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAxZs0o8I4EG1wfbna0vngpo
 #EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="BOISHAKHI TV HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/z7tr4kio29o2mpo1twyi2/BOISHAKHI-TV-HD.png?rlkey=6v1der98o42jng61uveaja3uo&st=0jf1z9qz&" group-title="Bangladeshi",BOISHAKHI TV HD
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA_FyNforKHGnrkd_iikb_Hk
 #EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="CHANNEL I HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/g2vyew1dne4c0wx9tpy73/CHANNEL-I-HD.png?rlkey=ehzndy8luf5rvmd6x3d0nn9tm&st=mhzax93v&" group-title="Bangladeshi",CHANNEL I HD
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA9wNRL3H3YXOqIWwmA39Dug
-#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="CHANNEL24 HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/k0kducl2w1z8s45rciksk/CHANNEL24-HD.png?rlkey=7729bs1xibwampmaswahqkufs&st=w3nx69wj&" group-title="Bangladeshi",CHANNEL24 HD
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA7xUx0YT-eZSOJM5vzFXQc0
-#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="DBC NEWS HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/usndkxzfh697r2e3kxeby/DBC-NEWS-HD.png?rlkey=wzj4rhps6juo8xj9r3gk2wjrd&st=psmuyc50&" group-title="Bangladeshi",DBC NEWS HD
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA_c-juLWCidG_f87qmcpH-o
 #EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="DEEPTO TV HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/7ieo1ij0ib36jcjs5mqky/DEEPTO-TV-HD.png?rlkey=ojqsjwxr3f0goi434fralf829&st=bcv97fwb&" group-title="Bangladeshi",DEEPTO TV HD
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA_7KUEPhrDuFXaAlxtVkpKE
 #EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="DESH TV" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/82n8ssr3qkaa4y9cwf7zd/DESH-TV.jpg?rlkey=3kvwan418a1vanl6berxmturj&st=t12lw1ez&" group-title="Bangladeshi",DESH TV
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAzCO6nUZdf53Bsy0Mzt6WU4
 #EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="EKHON TV" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/990udkin6nlncj2hhriia/EKHON-TV.png?rlkey=qguld6pmttr6mdbyxtup4kq2a&st=t2dgoase&" group-title="Bangladeshi",EKHON TV
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA2BVl1RSX4ezkUjtgNCVHQ4
-#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="EKATTOR TV HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/g9fb1g278dlygh4g62bkh/EKATTOR-TV-HD.png?rlkey=pzf0csn81ltvza840qn37ffaf&st=jflz6wtm&" group-title="Bangladeshi",EKATTOR TV HD
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA6mXC-KJP5guDTqwni-oYlQ
-#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="BBC CBEEBIES HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ya10zvtbafezzbekmrixi/BBC-CBEEBIES-HD.png?rlkey=z0l9z6uvyrg0wnd0vva3fh0y6&st=vyz7lcxd&" group-title="Bangladeshi",BBC CBEEBIES HD
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA47gNSB7wvuox-RI3RUmV6Y
 #EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="GAZI TV HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/56nxmym0pkbmzkwzvqtv2/GAZI-TV-HD.webp?rlkey=4ux8xrsn0chflsr869wtpxuql&st=8jjsu4wp&" group-title="Bangladeshi",GAZI TV HD
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA2fDdQrxKt12EKK2jKiKrEE
-#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="INDEPENDENT TV" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/q99mtppypf6xt4ghtqyph/INDEPENDENT-TV.png?rlkey=0gq9s3xa34kgs4zv502kdj2wn&st=49hpax15&" group-title="Bangladeshi",INDEPENDENT TV
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAwWYOuywRMd4zmlHoudETEg
-#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="JAMUNA TV" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/pasl8a3p3ic24nkafwcmc/JAMUNA-TV.png?rlkey=bjeczl0p4cizwjsciqm2ihaa7&st=e4tclblv&" group-title="Bangladeshi",JAMUNA TV
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA8v8rN6kAVbK87DTHzy3yzo
-#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="MAASRANGA TV HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/qda037q95l4fvt6fsiz88/MAASRANGA-TV-HD.jpg?rlkey=7tnu1dypnnz87gz5h156sjo5w&st=ua728ghe&" group-title="Bangladeshi",MAASRANGA TV HD
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA-0TKJRZGDHE1U_J1zGJ9fw
 #EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="MYTV HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/z3lotd476818kteistejx/MYTV-HD.png?rlkey=sy8qjxzb8z1ns6yi7d2a5zhh5&st=26yvi0n6&" group-title="Bangladeshi",MYTV HD
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAw8nxtoUTKO6BvtfANcNQnY
 #EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="NAGORIK TV HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/j0iuuggmqaxndy2n75uae/NAGORIK-TV-HD.png?rlkey=71ctxjxo8k4yre88iqy5zm2j2&st=ndnzjlwv&" group-title="Bangladeshi",NAGORIK TV HD
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA5xMq6_OPzwmpYbcr5_JZTc
-#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="NEWS24 HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/mzfykoh2tja54em7bfedl/NEWS24-HD.png?rlkey=m1oha3b6myjfiek5embwlx0ux&st=d9yk7as8&" group-title="Bangladeshi",NEWS24 HD
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA9Yv552eH0A8e52Dqelg-fw
 #EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="NTV" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/pobovfwkuuqu2crs74sen/NTV.png?rlkey=an6ticngtp5u9p0tt3an69kll&st=aenrwzoh&" group-title="Bangladeshi",NTV
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAwxSfKoy0_7iktrmK-OpMn0
 #EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="RTV HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/o8yqsu8z7bdto6bnyy88y/RTV-HD.png?rlkey=4fo3z9pay0ixfzenba3vmdufh&st=9jgikz43&" group-title="Bangladeshi",RTV HD
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA5kBeAE3PtthB0R-LRMYhNQ
 #EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="SATV HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/mdpp6ntm6y8pxuhijo7ac/SATV-HD.jpg?rlkey=h6eomiugerqnuogivbtagi4k5&st=pg0rh67r&" group-title="Bangladeshi",SATV HD
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA8IBELmjBnqWoQV3Qjbzfps
-#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="SUN BANGLA" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/1i3yo4d9x4ih5xeadsqwo/SUN-BANGLA.webp?rlkey=llczg7olb4xkk74c2njiqv46j&st=u19gjg0h&" group-title="Bangladeshi",SUN BANGLA
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA4yEOeIw8weNHIb2ooiEr4c
-#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="ZEE BANGLA HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/r35vzdu68qb4xsnoqsxk7/ZEE-BANGLA-HD.png?rlkey=xiaxnbpd44lzdrx8gz62108li&st=44eqlp5k&" group-title="Bangladeshi",ZEE BANGLA HD
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA2J2ObuVcLYW5xvKgig9xEk
-#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="&PRIVE HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/0zk8ivu0sc7fo7j50ylw4/PRIVE-HD.jpg?rlkey=ptzivs5f32824z0399mgthbbe&st=e8twscb3&" group-title="Bangladeshi",&PRIVE HD
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA3taxXXNZYOufkQNGg267hM
-#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="24 GHANTA" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/49cwqhdsgy8mpevjjbqi6/24-GHANTA.webp?rlkey=pz02zhckooronuc9hceanbfpr&st=3c3cqc4u&" group-title="Bangladeshi",24 GHANTA
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAyHpn-R4uLMN0SXhWgPmAiU
-#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="A SPORTS HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ftk2osygedu9984qlyn3v/A-SPORTS-HD.png?rlkey=uu2cr6q1xvcwxr1zcorgyvfgu&st=caxm1xtj&" group-title="Bangladeshi",A SPORTS HD
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA1T9yO-JBU_w4AaSxGEvWi4
-#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="AL JAZEERA NEWS" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/7mbjhm5568uqb4ghmb37f/AL-JAZEERA-NEWS.png?rlkey=mpibmrvuglua6kmgaaeqi4rgw&st=scymxe93&" group-title="Bangladeshi",AL JAZEERA NEWS
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA2d0FRpBn2Rga77YIALxyhs
-#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="ARY NEWS ASIA" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/iaef6h5rcqj07lilklejr/ARY-NEWS-ASIA.png?rlkey=p9ihiykrt0iq5nav5a44g9bmf&st=ryv0p0dt&" group-title="Bangladeshi",ARY NEWS ASIA
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAyjz2G05Pkodb5NboTOyQTs
-#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="AXN HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/z5g9ij8csbzt017cs8k4d/AXN-HD.svg?rlkey=yvkt39w4g0hlyds5f5c9k0osb&st=sz86rb1m&" group-title="Bangladeshi",AXN HD
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA61BVEvUTViU72bEXsttoWA
-#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="BBC EARTH HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/p2xt7ngvlcaigh56g2iec/BBC-EARTH-HD.png?rlkey=4jtqi206t9ftprbiyd8kuq204&st=fpbboxht&" group-title="Bangladeshi",BBC EARTH HD
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA5uPpEItplo02Km--IqdQ8c
-#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="CARTOON NETWORK" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/udp70xa10s65jzcdv5n8b/CARTOON-NETWORK.png?rlkey=rt447ewktq0cc322b6aa0d5r3&st=erki75y3&" group-title="Bangladeshi",CARTOON NETWORK
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAx0gjyPMSijXAXA7ZhRyX-k
-#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="COLORS HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/eub5l70g2c81cfzhxxpvp/COLORS-HD.svg?rlkey=zntvffxw1m6d0b0j71hfzr35l&st=82d1bz7h&" group-title="Bangladeshi",COLORS HD
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA4ZkkwUOd394X4Eo0NuwHGc
-#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="DISCOVERY HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/41gmttku37z11fsoorlee/DISCOVERY-HD.png?rlkey=cq69wkl7p80uwscmtntd958s1&st=idm2y2ap&" group-title="Bangladeshi",DISCOVERY HD
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA1ae4cffhV9yAjOyISj2XTE
-#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="EKUSHEY TV" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/srtvwqohhxtrfip0lwa0q/EKUSHEY-TV.png?rlkey=p7xqmt8fo6g6rnpsstubkkby4&st=vadqeqjn&" group-title="Bangladeshi",EKUSHEY TV
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA3BS2efe8497gpL6efDrMQA
-#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="EUROSPORT HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/s7tjztl9xgakhdle6mjso/EUROSPORT-HD.png?rlkey=0klnbnouv83y5b2zp2hzsn40g&st=3x63khmc&" group-title="Bangladeshi",EUROSPORT HD
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA0ndJdWOZEQD7BHch3bEVNI
-#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="BBC LIFESTYLE HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/cxmlz2gqiwcpyix8zsd8h/BBC-LIFESTYLE-HD.jpg?rlkey=8gdby61cbq3ha21ld5gvmbbeb&st=8emoiqat&" group-title="Bangladeshi",BBC LIFESTYLE HD
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAzz68JJlPZWJZt0wKMGU5Sw
-#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="HISTORY TV18 HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/1y1olduocxir2tofqz4ge/HISTORY-TV18-HD.webp?rlkey=f0h315z57vrnxjqgkr8mk8o43&st=i6bwcxx5&" group-title="Bangladeshi",HISTORY TV18 HD
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA63w0HrH40Zz_eOy4I63lcs
-#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="MN+ HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/pgzkyjhrzwfy79ynac71k/MN-HD.jpeg?rlkey=b6dr6zdeq07wa4e844i23qk4q&st=lq00dkqu&" group-title="Bangladeshi",MN+ HD
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAxA7H3hlj-_Q1X8K3LqwB7w
-#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="NAT GEO HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/tuhrt8kirybnwwaxdvoz1/NAT-GEO-HD.png?rlkey=znq5a9p95ea01y8jowjcfijod&st=isl29bgy&" group-title="Bangladeshi",NAT GEO HD
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA8Wb1ckUItbyhIPhcQE63Qo
-#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="NAT GEO WILD HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/7rxt6yzexo4m9qsrg66y7/NAT-GEO-WILD-HD.png?rlkey=t2tsph6td01573t6aos9cch05&st=c8hmj1fq&" group-title="Bangladeshi",NAT GEO WILD HD
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAz5RczB08W7KYwaAYnlLfss
-#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="NICK SD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/pmfee7og41leukg2kvvjv/NICK-SD.webp?rlkey=ae0go7aa3mirxpt9tzfhbt5ae&st=u079ux4i&" group-title="Bangladeshi",NICK SD
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA94MzVPKdI7F2qBKeLKpbD0
-#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="SOMOY TV HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/0eh6nto4e0bl4qqm6r6k2/SOMOY-TV-HD.png?rlkey=hpe747nf8xtxma02iybrqh0o4&st=6k7yslwh&" group-title="Bangladeshi",SOMOY TV HD
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA0DYjVid5WbW8UtDN3-AE6w
-#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="SONY BBC EARTH HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/fequrfuytwij55buaw9kz/SONY-BBC-EARTH-HD.png?rlkey=y9e5li0mfeu6s8sr90asdyvf2&st=12bxakbl&" group-title="Bangladeshi",SONY BBC EARTH HD
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA1bQlrlGtXGqLaMfpykD0FQ
-#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="SONY MAX HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/zv69etigzpdwjlxj3njla/SONY-MAX-HD.png?rlkey=lgrkfh43se42i3e7acrikexd5&st=a2qj8tgr&" group-title="Bangladeshi",SONY MAX HD
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA7keUoM9IsfncKh-TVkb5zk
-#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="SONY PIX HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/l3ptflowpt9qtfmnozlfh/SONY-PIX-HD.png?rlkey=2iahprfimhxkp2yvgm34rem5f&st=n3ppuqbp&" group-title="Bangladeshi",SONY PIX HD
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAySO0zc2_tb3tJVZLeLIdxw
-#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="SONY TEN 1 HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/hv9bxkgdietj9zpexdgsc/SONY-TEN-1-HD.png?rlkey=5mlpv0b9xxqnjb578ki6bfti1&st=evqm284t&" group-title="Bangladeshi",SONY TEN 1 HD
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA03s0umUedSUliCAAO3RNs8
-#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="SONY TEN 2 HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/8muam4sgo1qw7m9l3sn40/SONY-TEN-2-HD.webp?rlkey=ov7olwzoeq8i8w0dw85wfkudi&st=6t6nivi9&" group-title="Bangladeshi",SONY TEN 2 HD
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA5-zeaOabG-vjosNtqWeNWY
-#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="SONY TEN 5 HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/3vx1j4m80ws4zs276mqvg/SONY-TEN-5-HD.png?rlkey=3z14sov6io6uvc95ww7mfs9dh&st=dxm88kyp&" group-title="Bangladeshi",SONY TEN 5 HD
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA8M5s-R1JCgC7RJoFr2X5Rw
-#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="SPORTS 18 HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/6l16b1erclrquj1zj9kby/SPORTS-18-HD.png?rlkey=w7yhg0fqh60jlv2f9pyil3wit&st=vzt3lch1&" group-title="Bangladeshi",SPORTS 18 HD
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA98PzWIzraWb90pov-Jlhqo
-#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="STAR BHARAT HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/5lubno2kqz8v3fn3jiaeb/STAR-BHARAT-HD.webp?rlkey=4ywbvubu680lmcmz0sixaysu2&st=hkwsgzvb&" group-title="Bangladeshi",STAR BHARAT HD
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAwYelnJj-4e_U5eWEk3gCso
-#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="STAR GOLD HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/0cix1qaqxzi1v9s2jsb45/STAR-GOLD-HD.webp?rlkey=l1jm5kr63a57oz2qa7vuvf5fk&st=hhzwt0dw&" group-title="Bangladeshi",STAR GOLD HD
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAyOSC2GeyegcW1N_URGba-0
-#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="STAR MOVIES SEL HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/3i3k2mi5096vb1kjr8pft/STAR-MOVIES-SEL-HD.webp?rlkey=0t9y4z9h50whpsxargbxr8t4x&st=du4a9kov&" group-title="Bangladeshi",STAR MOVIES SEL HD
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA-ubsOEwtB1tgTJisY1MYWU
-#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="STAR PLUS HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/0cc7yac2uo200d5upxc51/STAR-PLUS-HD.png?rlkey=ax29l02u1o7ploj7hdkcu7y7s&st=0n4p00ul&" group-title="Bangladeshi",STAR PLUS HD
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAwqgyVIvQj6A55n5tJfJ-YA
-#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="STAR SPORTS 1 HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/sbypyoiyqenh7o3wb5lp7/STAR-SPORTS-1-HD.png?rlkey=jxs785lytgqt8kbp1u4ytymbt&st=iwi21pl2&" group-title="Bangladeshi",STAR SPORTS 1 HD
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA9SmD9DBUBBFryQ6ZMeIzxM
-#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="STAR SPORTS 2 HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/rjw3gpdzurqfvvoj6lbzl/STAR-SPORTS-2-HD.webp?rlkey=nu9i1cnfnt0q57dd9pm6l0dn4&st=0hy56jqg&" group-title="Bangladeshi",STAR SPORTS 2 HD
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAx6-mphBg8gl7Hrc1b_hlqQ
-#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="STAR SPORTS 3" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/tsee4n1p8jj7ml9ui86fk/STAR-SPORTS-3.png?rlkey=ho4n51gxz6e8rwn2a4c40dcao&st=tcxgbnow&" group-title="Bangladeshi",STAR SPORTS 3
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAzWZsqMCHvXNIndhQFhrNeQ
-#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="STAR SPORTS SL 1 HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ijk9fz4igvw1k6ttambab/STAR-SPORTS-SL-1-HD.webp?rlkey=rdn8aecw2kysffculnivugp8f&st=5u6r34t5&" group-title="Bangladeshi",STAR SPORTS SL 1 HD
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA324orKoVmE1EM18g8AcgYI
-#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="STAR SPORTS SL 2 HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/r6hnj7ao6eo8l1m86ujex/STAR-SPORTS-SL-2-HD.webp?rlkey=6l19n6dddnje3n9qeozsfwka8&st=dfh8kabx&" group-title="Bangladeshi",STAR SPORTS SL 2 HD
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA0GyQmEKMAZIKFiWcUqBfEM
-#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="TLC HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/7c061pvaqpym07kp2jnt8/TCL-HD.png?rlkey=k7xjy0o7rwms91g0dn8v5cscs&st=1zrum8fg&" group-title="Bangladeshi",TLC HD
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA4yczWrend7pfGCiZrGw9LI
-#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="ZEE CINEMA HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/pxb27wchee0emrvxj0tuw/ZEE-CINEMA-HD.png?rlkey=6aq1y0x99p0hlx9wcomvh3t8q&st=61sxgufi&" group-title="Bangladeshi",ZEE CINEMA HD
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAz1WRBGWiIKzdeGYg5OfcuY
-#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="ZEE TV HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/55rjbxevq2ulk17i5augh/ZEE-TV-HD.png?rlkey=c763vtmk98kt0v8q3wnuq2wcr&st=knw0xdi6&" group-title="Bangladeshi",ZEE TV HD
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA8_18-npr6LX9umQFmKTVRI
-#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="TNT SPORTS 1 HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/1qv39t66k7mo5gspdqvw8/TNT-SPORTS-1-HD.png?rlkey=i6k0lu5fw8chehhw2rjf4hkpz&st=f0o9s0j1&" group-title="Bangladeshi",TNT SPORTS 1 HD
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA3OdK5xHLTpDcHZnEMnM-FA
-#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="DW ENGLISH HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/fvhnxsly4muv8axuo48yt/DW-ENGLISH-HD.jpg?rlkey=55gj6aguluk66583cfhviayb6&st=cteh1s64&" group-title="Bangladeshi",DW ENGLISH HD
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAzjTq75zoOSPsOGM5Mg9--s
-#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="TEN SPORTS HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/cx4pc1x0g6q85g2ar3bdg/TEN-SPORTS-HD.png?rlkey=l0ivn78l0p3jfljxsz0naoxuy&st=xey1ya91&" group-title="Bangladeshi",TEN SPORTS HD
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA6hYMAvYELfySLVDWBMxvqc
-#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="BBC WORLD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/0ffkzwtoin5ingtb0qib3/BBC-WORLD.png?rlkey=mswouu65zf7fecoasq1qlgzpz&st=xi8i6b8a&" group-title="Bangladeshi",BBC WORLD
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA0HmZbyPChrarr0v1zTcBOA
-#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="CNN INTERNATIONAL" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/qb5fatmkh6sttbnhv043d/CNN-INTERNATIONAL.png?rlkey=otrp30gryc3hdqv979n7c0pla&st=5obzr14b&" group-title="Bangladeshi",CNN INTERNATIONAL
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAxlFmkhEoShP524f4j6nSI0
-#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="& PRIVE HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/0zk8ivu0sc7fo7j50ylw4/PRIVE-HD.jpg?rlkey=ptzivs5f32824z0399mgthbbe&st=19vg270f&" group-title="Bangladeshi",& PRIVE HD
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAzqvOymolrkJ2lcwcHE4jUk
-#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="COLORS INFINITY HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/4xk4q14wysyvivvimcs0k/COLORS-INFINITY-HD.png?rlkey=iye70zombur3n876j0ov4c3rl&st=lk220d3r&" group-title="Bangladeshi",COLORS INFINITY HD
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAxSahhHpr8sUNnOnXw-W9YQ
-#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="NICK TV HD+" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/imy6npsrqbewhpa0jbdsa/NICK-TV-HD.jpg?rlkey=xxgypxm6gefcvfs1mhdbbqd3u&st=asptp892&" group-title="Bangladeshi",NICK TV HD+
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA5pnufO29vA1VCEDIqfgUWE
-#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="SONY TEN2 HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/8muam4sgo1qw7m9l3sn40/SONY-TEN-2-HD.webp?rlkey=ov7olwzoeq8i8w0dw85wfkudi&st=vf5itwii&" group-title="Bangladeshi",SONY TEN2 HD
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAz8CvWgCp9hufE5nEp7b59M
-#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="STAR SPORTS SL1 HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ijk9fz4igvw1k6ttambab/STAR-SPORTS-SL-1-HD.webp?rlkey=rdn8aecw2kysffculnivugp8f&st=jkz3zp16&" group-title="Bangladeshi",STAR SPORTS SL1 HD
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA4VAyhUIDSAU7x51LY-x7PA
-#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="STAR SPORTS SL2 HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/r6hnj7ao6eo8l1m86ujex/STAR-SPORTS-SL-2-HD.webp?rlkey=6l19n6dddnje3n9qeozsfwka8&st=9m1mtjua&" group-title="Bangladeshi",STAR SPORTS SL2 HD
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAwy9HUkF_tLFW6RllIfexOQ
-#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="STAR GOLD SEL HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/i9knn3vzung5y2w112kb4/STAR-GOLD-SEL-HD.svg?rlkey=rtcpb5noar06yir8u9t167aue&st=siw22i67&" group-title="Bangladeshi",STAR GOLD SEL HD
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA3mbxe8nlL2rdpEH2607g44
-#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="COLORS BANGLA HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/z8w6m53z2amjwewmt1scg/COLORS-BANGLA-HD.webp?rlkey=l4vj3afawtm8iazruw7sv3hql&st=fyrfutwq&" group-title="Bangladeshi",COLORS BANGLA HD
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA1m-C_2EIhsZda2eN2z-yro
-#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="JALSHA MOVIES HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/l13y0rk8jm8p59kyoj6b3/JALSHA-MOVIES-HD.png?rlkey=90ldpppvgtrscmsj13irl9jfm&st=1d73yfc7&" group-title="Bangladeshi",JALSHA MOVIES HD
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA5czJZdJL5NIAEXBZ-4lMb0
-#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="STAR JALSHA HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/uvp3exn5kq13ze9fdcmtw/STAR-JALSHA-HD.png?rlkey=rxmkqscljuivi11v01e4dwulj&st=r8mac7xu&" group-title="Bangladeshi",STAR JALSHA HD
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA7KmZiV1VLWfumYmaIyCmgA
-#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="STAR MOVIES HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/wx8g9g1z2izd6ghw6r05o/STAR-MOVIES-HD.jpg?rlkey=q89gqoos082d0hmm5p86cndzx&st=j46meqwy&" group-title="Bangladeshi",STAR MOVIES HD
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA1ekp3Fy7D94wMxtS9g2lBY
-#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="TCL HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/7c061pvaqpym07kp2jnt8/TCL-HD.png?rlkey=k7xjy0o7rwms91g0dn8v5cscs&st=42bol6b8&" group-title="Bangladeshi",TCL HD
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA993B1sDkuala-9B69I6Txc
-#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="ZEE CAFE HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/qgngermmg58qht5yzjxoi/ZEE-CAFE-HD.png?rlkey=ntyjo8bu4ahmaex5cu1cl099h&st=1o1r97hj&" group-title="Bangladeshi",ZEE CAFE HD
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA-zsBzXTqzyDaNsy4YUfQBs
-#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="& FLIX HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/sls9z8fsqvqxvrflckjvu/FLIX-HD.png?rlkey=8q6rx7rvqu1ebpjs90d3ly3bi&st=oyrbwq7f&" group-title="Bangladeshi",& FLIX HD
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA-KYkzcq1Lx-hVnGrYWojag
-#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="EURO SPORTS HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/cgj51dovru2jp11o2z74u/EURO-SPORTS-HD.png?rlkey=sj4al07g25xg7elwlf7zifx57&st=4kv6vf7q&" group-title="Bangladeshi",EURO SPORTS HD
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA66mVj3wqB2MDpjz0dPPo_0
-#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="SONY HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/vwa7xah3obwaawaybln49/SONY-HD.png?rlkey=dpvgbhk8aeb0xah00zi1xd9lo&st=wm7sil8f&" group-title="Bangladeshi",SONY HD
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA5cc-JzyUsEkIbufeH14TB4
-#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="FOX LIFE HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/sw6ybgp6bdjj75vaxtpnt/FOX-LIFE-HD.png?rlkey=wzoma5t2wcckoxk4pms99g6yu&st=7si80clu&" group-title="Bangladeshi",FOX LIFE HD
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA0kE0hctTCx2ma0XE99OPy4
-#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="SUB TV HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ekmt6t9uu3nqfd40f6h8w/SUB-TV-HD.png?rlkey=k91yx3indffhjt1hskrxaa261&st=66v7r3aq&" group-title="Bangladeshi",SUB TV HD
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA48SQVRIhLk9q5F2GVkdyi8
-#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="&TV HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/aba72smk7cj1qv3b5dtsf/TV-HD.jpg?rlkey=vnkiz6108hhtrz3bdxtlutt8v&st=7otv0w5b&" group-title="Bangladeshi",&TV HD
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA1cLlNDXH7J1Jn8v3Onl-r4
-#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="HANGAMA SD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/bt4ittz5rmlknkp3g7q9g/HANGAMA-SD.webp?rlkey=emjbm9kbknen27szfd3k0stk5&st=53fco6u7&" group-title="Bangladeshi",HANGAMA SD
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA7XznN44TSPx21_EdXW9-bo
-#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="POGO" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/d6lnbaakvjw2u3vkml7ha/POGO.png?rlkey=79kpz5vdj3b8fzlq301vtbi6w&st=pjh8vlco&" group-title="Bangladeshi",POGO
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA6jLJs-x9JkMCsHpFukynww
-#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="ZEE BANGLA CINEMA HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/jx660r9b27w0fi9mxzuuc/ZEE-BANGLA-CINEMA-HD.webp?rlkey=i8enxb8gcnibxpg6l19a4fboa&st=v7agplhu&" group-title="Bangladeshi",ZEE BANGLA CINEMA HD
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAwle_5XXDJlfauzFE6F8VsQ
-#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="ZEE NEWS" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/w8gzqns40tykrxqol6157/ZEE-NEWS.webp?rlkey=jliga0eyywdx76zepvlnbs7af&st=6sywjdej&" group-title="Bangladeshi",ZEE NEWS
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAwp9F7M7dy-hUjichD4O5TA
-#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="R.TV BANGLA NEWS" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/xuwhl1denrup0yxheq70z/R.TV-BANGLA-NEWS.png?rlkey=0qphef4q3lvn8lnq79y9k9tf7&st=chpwwaff&" group-title="Bangladeshi",R.TV BANGLA NEWS
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA4rfRWhw54IpB93bbx7_19Y
-#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="& PICTURE HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/w7hv71gum4fjj7bj9a30i/PICTURE-HD.jpg?rlkey=sl4oyn8adu2fldhnvny97vmfk&st=ef89ss8k&" group-title="Bangladeshi",& PICTURE HD
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA_vrXS8PTCO9UR3nth01qUY
-#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="STAR SPORTS HD1 CB" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/a5tzpa0tofjs2zzn3dei7/STAR-SPORTS-HD1-CB.png?rlkey=0v5v33llncq3art6m1ly5lgd6&st=jzgkhs26&" group-title="Bangladeshi",STAR SPORTS HD1 CB
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA1Gjd37lfHfc1DNAOAa4jsg
-#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="CGTN NEWS" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/dip22eyhj0fqxytr6uaro/CGTN-NEWS.png?rlkey=38rn7t2nqdyijquwtotztlb2p&st=g81sng5p&" group-title="Bangladeshi",CGTN NEWS
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA8Rdu2rV1LqQ1_nlHo2NjTA
-#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="ABP NEWS" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/i8a7ppr78kckj6x87hmbe/ABP-NEWS.jpg?rlkey=4m8mvn3ll5hsufx6bnrmuq3n6&st=pergg0qf&" group-title="Bangladeshi",ABP NEWS
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAzp7OSZQJzZcZLRrRYRy28k
-#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="WILLOW CRICKET" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/xw9i2qkx1uzd7p6grwi0k/WILLOW-CRICKET.jpg?rlkey=mv02e2mryat57fth30n8mejb4&st=8sqvjh63&" group-title="Bangladeshi",WILLOW CRICKET
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA1g-_KkzBq-pqdOeKpZdC-0
-#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="TNT SPORTS 2 HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/iw4l9tuzumm5frlxky0in/TNT-SPORTS-2-HD.png?rlkey=m7z7wss3tsxdeaxw421hzzzbv&st=p0mrbl15&" group-title="Bangladeshi",TNT SPORTS 2 HD
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA2YfXNYgfMH_pqpdNuFoqi8
-#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="GEO SUPER" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/168gjlcz8194wmiqxb976/GEO-SUPER.png?rlkey=p5vkmk55h4b3z6tg1l6ir33uj&st=g7opgsjg&" group-title="Bangladeshi",GEO SUPER
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA2NnBfpteKtx5uGLNAgM5Zs
-#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="9XM" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/yfykt08c5b6lafwxqmvke/9XM.svg?rlkey=29ov1a2hkhk3n76h5xuwwh0v7&st=nehw5sub&" group-title="Bangladeshi",9XM
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA5npyVJzmcSk1f8iLT69XKc
-#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="MASTIII" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/smda86xr0pt6btaedtaz6/MASTIII.webp?rlkey=pr75c4etvtutvg7r2zsgnlp3d&st=f0s4w4vc&" group-title="Bangladeshi",MASTIII
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA9KfTa7j96aMi6krK_pcma8
-#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="DURONTO TV HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/g8xnvj5h4giejex2n4i0u/DURONTO-TV-HD.png?rlkey=o7ca30galozgx3xc4meobl4qt&st=bnfjc28g&" group-title="Bangladeshi",DURONTO TV HD
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA0Wn0CC-9ZOBT1v4cuqhmDU
-#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="PTV SPORTS HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ljcn76ew2vdqf7cictxj0/PTV-SPORTS-HD.png?rlkey=1rvsl7ral7djfxcqwmy5l1qmr&st=2lguxjtz&" group-title="Bangladeshi",PTV SPORTS HD
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA2osZeAdagOcS1vRJAYWF_Y
-#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="SANGEET BANGLA" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/yunb98xai4cvthzui8uwa/SANGEET-BANGLA.webp?rlkey=zv1t6xpbzjcdovr32eip3347j&st=3rf81jbl&" group-title="Bangladeshi",SANGEET BANGLA
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA9AHn1Xwd7BtGPZVaIfJVf8
-#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="BTV NATIONAL HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ldwwpfna6xpz4pn5dr3sb/BTV-NATIONAL-HD.webp?rlkey=g7btinw7lq20u98szu08luks6&st=o9192u63&" group-title="Bangladeshi",BTV NATIONAL HD
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA_aUpnu3HM2-2nxHKbDe3FA
-#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="GEO SUPER SPORTS" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ni8ve51f0ifchsa0ryucx/GEO-SUPER-SPORTS.png?rlkey=usl4enz6i30rtlp2xy2z1ui6m&st=11sdki3o&" group-title="Bangladeshi",GEO SUPER SPORTS
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAxp1mLgFdzrXj-H1SqgcIpY
-#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="SONY ATTH" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/u8vllve98pp7eu81jvbvh/SONY-ATTH.png?rlkey=n9idnqdxqvl9nbiq00k8w3wbx&st=nwmh8kai&" group-title="Bangladeshi",SONY ATTH
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA8w8iYeaX0ac2OW28RzGY90
-#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="TEN CRICKET HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/suv3i4txv8inbumbjjxhi/TEN-CRICKET-HD.jpg?rlkey=fd350weawvqrhoo21njequiy5&st=mokcqisg&" group-title="Bangladeshi",TEN CRICKET HD
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAxYmOdwYKD9TaHZUX2ACjo8
-#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="T SPORTS FHD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/0jgdey5qu3d6f1u650gsr/T-SPORTS-FHD.png?rlkey=yx234t90mf6rzd3ocgoubexid&st=b75vrmf9&" group-title="Bangladeshi",T SPORTS FHD
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA7DzImxWwZd-nNy7aKwgGzI
-#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="BEIN  SPORTS 2 ENG" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/glj228uzeujvcy7udawvy/BEIN-SPORTS-2-ENG.webp?rlkey=a8311dhitlu56khfc4da1cnah&st=g2q4etiw&" group-title="Bangladeshi",BEIN  SPORTS 2 ENG
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA3rAU3tEQJkgiMFSDMBcrcw
-#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="BEIN  SPORTS 1 ENG" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/3vdqvgqtfx0k1wsy0mlm1/BEIN-SPORTS-1-ENG.webp?rlkey=4cr4h9190qj17loz77cpxdzm2&st=vn1q43kk&" group-title="Bangladeshi",BEIN  SPORTS 1 ENG
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA88ymJzFiqlYQGcDDiw6_3Q
-#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="BEIN SPORTS 3 ENG" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/tnvmjpswhjlhk7nssnmar/BEIN-SPORTS-3-ENG.webp?rlkey=qn2fp80efa7dcfz7dyievuuwh&st=woqwxkbh&" group-title="Bangladeshi",BEIN SPORTS 3 ENG
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAwk0wF2fXmtZee4HPoCd7Jo
-#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="WILLOW XTRA HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/q463x659r9naumk9q6jav/WILLOW-XTRA-HD.webp?rlkey=7mxwmec83krj90bdooct6jh0b&st=25ver7x2&" group-title="Bangladeshi",WILLOW XTRA HD
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAxzY-hOBEGbGvVX98TVDy-U
-#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="SUPER PREMIER LEAGUE HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/00fzugk0egqc90lnjkkcl/SUPER-PREMIER-LEAGUE-HD.png?rlkey=0keagv9t1jch2b4300is5sm74&st=74xth3oc&" group-title="Bangladeshi",SUPER PREMIER LEAGUE HD
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA9rsD7HSqulfmiwa28oPDYw
-#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="SUPER SPORTS CRICKET HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/skvvt4zk2euiqbuqsokzy/SUPER-SPORTS-CRICKET-HD.png?rlkey=tfgv8soizsv5oqr6ix0dowwyy&st=goaj2gmd&" group-title="Bangladeshi",SUPER SPORTS CRICKET HD
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA1k_gAKFpRKgkOIIHQ-efNw
-#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="SUPER LALIGA HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/phwflc1kr0617yuleswiw/SUPER-LALIGA-HD.webp?rlkey=8dxicrtfblzxu1cvxawurj8l1&st=8teilb28&" group-title="Bangladeshi",SUPER LALIGA HD
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA1H6lHsiJVQxI52n77SIz4c
-#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="VH 1 HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/yrhngzm3b9ur59qvgh02h/VH-1-HD.png?rlkey=5n2zv4xzldvtp3out6gno7unn&st=7wm0img9&" group-title="Bangladeshi",VH 1 HD
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA0FuZJqodlomE1xYx7JHZas
-#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="STAR GOLD 2 HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/atq9ja40myybnxjyl2yn9/STAR-GOLD-2-HD.png?rlkey=e9urasfrdzh8dxmy28fhdceh8&st=imff6p2c&" group-title="Bangladeshi",STAR GOLD 2 HD
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA0CzYiQQbxSPlxSGwgbRFHs
-#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="DISNEY INT. HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ayf7gj3lls13hztc7si5g/DISNEY-INT.-HD.webp?rlkey=5egwwz49210di8ckelgt1itt6&st=s77xf912&" group-title="Bangladeshi",DISNEY INT. HD
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA-7y030f1I7vS_9a9i43piM
-#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="DISNEY JUNIOR HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/9bx4o5v7j19r4qju5l0gr/DISNEY-JUNIOR-HD.webp?rlkey=1oipiq5ejvsui4xvw9867ysii&st=61aasmkj&" group-title="Bangladeshi",DISNEY JUNIOR HD
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA5Ky2-obyTTRwGTb9ps13M4
-#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="COLORS CINEPLEX HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/0w7vzxj746b8ow063sh7x/COLORS-CINEPLEX-HD.png?rlkey=opvg2vzqo2wtkpz3soykjj59i&st=dwa3brgg&" group-title="Bangladeshi",COLORS CINEPLEX HD
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA-_zbeds-s_T_pBXJlcrz80
-#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="BEIN SPORTS HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/nosm01lqrfz116h21hrhj/BEIN-SPORTS-HD.jpg?rlkey=r777evk44etlkebfos9r2q6vg&st=pjqytgps&" group-title="Bangladeshi",BEIN SPORTS HD
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA0yhGAdbZKR3Xm9j5oGIsYs
-#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="ENTER 10 BANGLA" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/vkxuv91iriljyhvu47k3m/ENTER-10-BANGLA.webp?rlkey=kwvnclc3th7jiobsdv88y6znz&st=z73fnb8y&" group-title="Bangladeshi",ENTER 10 BANGLA
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA1llPbXde722j403Rat9Xfk
-#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="BET HD*" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/2yz7xvmp7tdrvekbk3kqx/BET-HD.jpg?rlkey=w35plsuf22lsqn43a5o8f6s08&st=hry0pnz5&" group-title="Bangladeshi",BET HD*
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAxbjwbYUSPCCz3TyOpCZz88
-#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="TNT SPORTS 4 HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/3n07htnltfmjmflw3lclv/TNT-SPORTS-4-HD.png?rlkey=auobxy2vylyqefx09b800ryvd&st=lp3sihzc&" group-title="Bangladeshi",TNT SPORTS 4 HD
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA4AEYLf37lj8r3F9ARc5WBI
-#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="MTV INDIA" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/p882e31rjo7yn8wcca05p/MTV-INDIA.svg?rlkey=uxi2ujqxz9fx7ui04jx4ft8b1&st=scfqc2ti&" group-title="Bangladeshi",MTV INDIA
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA5h21Af785p13DD2ctFht6Q
-#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="COLOR RISHTEY" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/44k1nhd3tck21qgxq61c4/COLOR-RISHTEY.png?rlkey=0ju3kwt75zn04wj7ymtatzgqf&st=8td2vbuu&" group-title="Bangladeshi",COLOR RISHTEY
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA7DrRyURedGN_3s3UcXtH4E
-#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="SONY TEN 3 HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/tu9exb70bmws055xwuovh/SONY-TEN-3-HD.webp?rlkey=pu95hqvhfzfq8t4zwfre5da7h&st=j1xqmytz&" group-title="Bangladeshi",SONY TEN 3 HD
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA9WNqMl3r-zVZ-NgK6By-nU
-#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="KHUSHBOO" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/d9cxsp5lt7b6hqpemtzzb/KHUSHBOO.webp?rlkey=0af5vp50lertk2tec484sl7oi&st=qz21c0c2&" group-title="Bangladeshi",KHUSHBOO
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA84x18JTac-ud61DIKvpe0o
-#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="Peace TV Bangla  HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/lrgwhvc7e70azmnld5h6x/Peace-TV-Bangla-HD.webp?rlkey=z6knlryxvwja2mxebzphu6psy&st=u51huofy&" group-title="Bangladeshi",Peace TV Bangla  HD
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA_qgr7GyG8jkd9M5mp3pNvE
 #EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="SANGSAD TV HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/vejrf74m3mlkec95m00n8/SANGSAD-TV-HD.png?rlkey=2fc25rk97jmdw34z3urs5hu7w&st=zr7ngxs7&" group-title="Bangladeshi",SANGSAD TV HD
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAwzRO7yk4kr2TdGWOXVTbwY
 #EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="BANGLA TV HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/4b87dyss5z59bda7bjmks/BANGLA-TV-HD.webp?rlkey=6nd6x3kha0xnrcrqex99c4tbr&st=iu8dqq5g&" group-title="Bangladeshi",BANGLA TV HD
@@ -272,5 +40,262 @@ http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAxOdahR7xRtgKc5plP6XhCU
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA10DnI3gLPNZ-SymRSi1opo
 #EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="ANANDA TV" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/x2dqck73n9azgmv3q9kas/ANANDA-TV.png?rlkey=6889azc1gczysc1zo11mt97yf&st=ndt56gl9&" group-title="Bangladeshi",ANANDA TV
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA4YELGxF2nTDmF3fpVu_0yo
-#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="TRAVEL XP HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/nfqs38w5efo37egztgmcz/TRAVEL-XP-HD.svg?rlkey=da7lhvd3relkl3nepwagex5h1&st=7o5s2r8y&" group-title="Bangladeshi",TRAVEL XP HD
+#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="EKUSHEY TV" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/srtvwqohhxtrfip0lwa0q/EKUSHEY-TV.png?rlkey=p7xqmt8fo6g6rnpsstubkkby4&st=vadqeqjn&" group-title="Bangladeshi",EKUSHEY TV
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA3BS2efe8497gpL6efDrMQA
+#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="BTV NATIONAL HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ldwwpfna6xpz4pn5dr3sb/BTV-NATIONAL-HD.webp?rlkey=g7btinw7lq20u98szu08luks6&st=o9192u63&" group-title="Bangladeshi",BTV NATIONAL HD
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA_aUpnu3HM2-2nxHKbDe3FA
+
+
+
+--------------------------------------- NEWS ---------------------------------------
+#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="SOMOY TV HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/0eh6nto4e0bl4qqm6r6k2/SOMOY-TV-HD.png?rlkey=hpe747nf8xtxma02iybrqh0o4&st=6k7yslwh&" group-title="NEWS",SOMOY TV HD
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA0DYjVid5WbW8UtDN3-AE6w
+#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="ATN NEWS" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ara4sv0we8ojn2yzjt8p4/ATN-NEWS.png?rlkey=0stgfr3h2fnlbco4bom4xpsbw&st=lxyn4n7f&" group-title="NEWS",ATN NEWS
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAxbr7tznLQfRHlkqWyjbZrc
+#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="CHANNEL24 HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/k0kducl2w1z8s45rciksk/CHANNEL24-HD.png?rlkey=7729bs1xibwampmaswahqkufs&st=w3nx69wj&" group-title="NEWS",CHANNEL24 HD
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA7xUx0YT-eZSOJM5vzFXQc0
+#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="DBC NEWS HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/usndkxzfh697r2e3kxeby/DBC-NEWS-HD.png?rlkey=wzj4rhps6juo8xj9r3gk2wjrd&st=psmuyc50&" group-title="NEWS",DBC NEWS HD
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA_c-juLWCidG_f87qmcpH-o
+#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="EKATTOR TV HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/g9fb1g278dlygh4g62bkh/EKATTOR-TV-HD.png?rlkey=pzf0csn81ltvza840qn37ffaf&st=jflz6wtm&" group-title="NEWS",EKATTOR TV HD
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA6mXC-KJP5guDTqwni-oYlQ
+#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="INDEPENDENT TV" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/q99mtppypf6xt4ghtqyph/INDEPENDENT-TV.png?rlkey=0gq9s3xa34kgs4zv502kdj2wn&st=49hpax15&" group-title="NEWS",INDEPENDENT TV
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAwWYOuywRMd4zmlHoudETEg
+#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="JAMUNA TV" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/pasl8a3p3ic24nkafwcmc/JAMUNA-TV.png?rlkey=bjeczl0p4cizwjsciqm2ihaa7&st=e4tclblv&" group-title="NEWS",JAMUNA TV
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA8v8rN6kAVbK87DTHzy3yzo
+#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="NEWS24 HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/mzfykoh2tja54em7bfedl/NEWS24-HD.png?rlkey=m1oha3b6myjfiek5embwlx0ux&st=d9yk7as8&" group-title="NEWS",NEWS24 HD
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA9Yv552eH0A8e52Dqelg-fw
+#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="24 GHANTA" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/49cwqhdsgy8mpevjjbqi6/24-GHANTA.webp?rlkey=pz02zhckooronuc9hceanbfpr&st=3c3cqc4u&" group-title="NEWS",24 GHANTA
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAyHpn-R4uLMN0SXhWgPmAiU
+#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="AL JAZEERA NEWS" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/7mbjhm5568uqb4ghmb37f/AL-JAZEERA-NEWS.png?rlkey=mpibmrvuglua6kmgaaeqi4rgw&st=scymxe93&" group-title="NEWS",AL JAZEERA NEWS
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA2d0FRpBn2Rga77YIALxyhs
+#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="ARY NEWS ASIA" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/iaef6h5rcqj07lilklejr/ARY-NEWS-ASIA.png?rlkey=p9ihiykrt0iq5nav5a44g9bmf&st=ryv0p0dt&" group-title="NEWS",ARY NEWS ASIA
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAyjz2G05Pkodb5NboTOyQTs
+#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="CGTN NEWS" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/dip22eyhj0fqxytr6uaro/CGTN-NEWS.png?rlkey=38rn7t2nqdyijquwtotztlb2p&st=g81sng5p&" group-title="NEWS",CGTN NEWS
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA8Rdu2rV1LqQ1_nlHo2NjTA
+#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="ABP NEWS" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/i8a7ppr78kckj6x87hmbe/ABP-NEWS.jpg?rlkey=4m8mvn3ll5hsufx6bnrmuq3n6&st=pergg0qf&" group-title="NEWS",ABP NEWS
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAzp7OSZQJzZcZLRrRYRy28k
+
+
+
+--------------------------------------- Kids ---------------------------------------
+#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="BBC CBEEBIES HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ya10zvtbafezzbekmrixi/BBC-CBEEBIES-HD.png?rlkey=z0l9z6uvyrg0wnd0vva3fh0y6&st=vyz7lcxd&" group-title="Kids",BBC CBEEBIES HD
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA47gNSB7wvuox-RI3RUmV6Y
+#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="MAASRANGA TV HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/qda037q95l4fvt6fsiz88/MAASRANGA-TV-HD.jpg?rlkey=7tnu1dypnnz87gz5h156sjo5w&st=ua728ghe&" group-title="Kids",MAASRANGA TV HD
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA-0TKJRZGDHE1U_J1zGJ9fw
+#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="CARTOON NETWORK" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/udp70xa10s65jzcdv5n8b/CARTOON-NETWORK.png?rlkey=rt447ewktq0cc322b6aa0d5r3&st=erki75y3&" group-title="Kids",CARTOON NETWORK
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAx0gjyPMSijXAXA7ZhRyX-k
+#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="KHUSHBOO" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/d9cxsp5lt7b6hqpemtzzb/KHUSHBOO.webp?rlkey=0af5vp50lertk2tec484sl7oi&st=qz21c0c2&" group-title="Kids",KHUSHBOO
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA84x18JTac-ud61DIKvpe0o
+#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="NICK SD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/pmfee7og41leukg2kvvjv/NICK-SD.webp?rlkey=ae0go7aa3mirxpt9tzfhbt5ae&st=u079ux4i&" group-title="Kids",NICK SD
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA94MzVPKdI7F2qBKeLKpbD0
+#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="NICK TV HD+" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/imy6npsrqbewhpa0jbdsa/NICK-TV-HD.jpg?rlkey=xxgypxm6gefcvfs1mhdbbqd3u&st=asptp892&" group-title="Kids",NICK TV HD+
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA5pnufO29vA1VCEDIqfgUWE
+#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="DISNEY INT. HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ayf7gj3lls13hztc7si5g/DISNEY-INT.-HD.webp?rlkey=5egwwz49210di8ckelgt1itt6&st=s77xf912&" group-title="Kids",DISNEY INT. HD
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA-7y030f1I7vS_9a9i43piM
+#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="DISNEY JUNIOR HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/9bx4o5v7j19r4qju5l0gr/DISNEY-JUNIOR-HD.webp?rlkey=1oipiq5ejvsui4xvw9867ysii&st=61aasmkj&" group-title="Kids",DISNEY JUNIOR HD
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA5Ky2-obyTTRwGTb9ps13M4
+#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="ENTER 10 BANGLA" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/vkxuv91iriljyhvu47k3m/ENTER-10-BANGLA.webp?rlkey=kwvnclc3th7jiobsdv88y6znz&st=z73fnb8y&" group-title="Kids",ENTER 10 BANGLA
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA1llPbXde722j403Rat9Xfk
+#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="DURONTO TV HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/g8xnvj5h4giejex2n4i0u/DURONTO-TV-HD.png?rlkey=o7ca30galozgx3xc4meobl4qt&st=bnfjc28g&" group-title="Kids",DURONTO TV HD
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA0Wn0CC-9ZOBT1v4cuqhmDU
+#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="HANGAMA SD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/bt4ittz5rmlknkp3g7q9g/HANGAMA-SD.webp?rlkey=emjbm9kbknen27szfd3k0stk5&st=53fco6u7&" group-title="Kids",HANGAMA SD
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA7XznN44TSPx21_EdXW9-bo
+#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="POGO" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/d6lnbaakvjw2u3vkml7ha/POGO.png?rlkey=79kpz5vdj3b8fzlq301vtbi6w&st=pjh8vlco&" group-title="Kids",POGO
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA6jLJs-x9JkMCsHpFukynww
+
+
+
+
+--------------------------------------- INDIA ---------------------------------------
+#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="SUN BANGLA" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/1i3yo4d9x4ih5xeadsqwo/SUN-BANGLA.webp?rlkey=llczg7olb4xkk74c2njiqv46j&st=u19gjg0h&" group-title="India",SUN BANGLA
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA4yEOeIw8weNHIb2ooiEr4c
+#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="ZEE BANGLA HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/r35vzdu68qb4xsnoqsxk7/ZEE-BANGLA-HD.png?rlkey=xiaxnbpd44lzdrx8gz62108li&st=44eqlp5k&" group-title="India",ZEE BANGLA HD
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA2J2ObuVcLYW5xvKgig9xEk
+#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="&PRIVE HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/0zk8ivu0sc7fo7j50ylw4/PRIVE-HD.jpg?rlkey=ptzivs5f32824z0399mgthbbe&st=e8twscb3&" group-title="India",&PRIVE HD
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA3taxXXNZYOufkQNGg267hM
+#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="COLORS HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/eub5l70g2c81cfzhxxpvp/COLORS-HD.svg?rlkey=zntvffxw1m6d0b0j71hfzr35l&st=82d1bz7h&" group-title="India",COLORS HD
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA4ZkkwUOd394X4Eo0NuwHGc
+#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="DISCOVERY HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/41gmttku37z11fsoorlee/DISCOVERY-HD.png?rlkey=cq69wkl7p80uwscmtntd958s1&st=idm2y2ap&" group-title="India",DISCOVERY HD
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA1ae4cffhV9yAjOyISj2XTE
+#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="SONY MAX HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/zv69etigzpdwjlxj3njla/SONY-MAX-HD.png?rlkey=lgrkfh43se42i3e7acrikexd5&st=a2qj8tgr&" group-title="India",SONY MAX HD
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA7keUoM9IsfncKh-TVkb5zk
+#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="SONY PIX HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/l3ptflowpt9qtfmnozlfh/SONY-PIX-HD.png?rlkey=2iahprfimhxkp2yvgm34rem5f&st=n3ppuqbp&" group-title="India",SONY PIX HD
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAySO0zc2_tb3tJVZLeLIdxw
+#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="STAR BHARAT HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/5lubno2kqz8v3fn3jiaeb/STAR-BHARAT-HD.webp?rlkey=4ywbvubu680lmcmz0sixaysu2&st=hkwsgzvb&" group-title="India",STAR BHARAT HD
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAwYelnJj-4e_U5eWEk3gCso
+#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="STAR GOLD HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/0cix1qaqxzi1v9s2jsb45/STAR-GOLD-HD.webp?rlkey=l1jm5kr63a57oz2qa7vuvf5fk&st=hhzwt0dw&" group-title="India",STAR GOLD HD
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAyOSC2GeyegcW1N_URGba-0
+#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="STAR PLUS HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/0cc7yac2uo200d5upxc51/STAR-PLUS-HD.png?rlkey=ax29l02u1o7ploj7hdkcu7y7s&st=0n4p00ul&" group-title="India",STAR PLUS HD
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAwqgyVIvQj6A55n5tJfJ-YA
+#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="SONY BBC EARTH HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/fequrfuytwij55buaw9kz/SONY-BBC-EARTH-HD.png?rlkey=y9e5li0mfeu6s8sr90asdyvf2&st=12bxakbl&" group-title="India",SONY BBC EARTH HD
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA1bQlrlGtXGqLaMfpykD0FQ
+#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="ZEE CINEMA HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/pxb27wchee0emrvxj0tuw/ZEE-CINEMA-HD.png?rlkey=6aq1y0x99p0hlx9wcomvh3t8q&st=61sxgufi&" group-title="India",ZEE CINEMA HD
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAz1WRBGWiIKzdeGYg5OfcuY
+#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="ZEE TV HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/55rjbxevq2ulk17i5augh/ZEE-TV-HD.png?rlkey=c763vtmk98kt0v8q3wnuq2wcr&st=knw0xdi6&" group-title="India",ZEE TV HD
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA8_18-npr6LX9umQFmKTVRI
+#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="COLOR RISHTEY" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/44k1nhd3tck21qgxq61c4/COLOR-RISHTEY.png?rlkey=0ju3kwt75zn04wj7ymtatzgqf&st=8td2vbuu&" group-title="India",COLOR RISHTEY
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA7DrRyURedGN_3s3UcXtH4E
+#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="STAR MOVIES SEL HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/3i3k2mi5096vb1kjr8pft/STAR-MOVIES-SEL-HD.webp?rlkey=0t9y4z9h50whpsxargbxr8t4x&st=du4a9kov&" group-title="India",STAR MOVIES SEL HD
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA-ubsOEwtB1tgTJisY1MYWU
+#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="& PRIVE HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/0zk8ivu0sc7fo7j50ylw4/PRIVE-HD.jpg?rlkey=ptzivs5f32824z0399mgthbbe&st=19vg270f&" group-title="India",& PRIVE HD
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAzqvOymolrkJ2lcwcHE4jUk
+#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="COLORS INFINITY HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/4xk4q14wysyvivvimcs0k/COLORS-INFINITY-HD.png?rlkey=iye70zombur3n876j0ov4c3rl&st=lk220d3r&" group-title="India",COLORS INFINITY HD
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAxSahhHpr8sUNnOnXw-W9YQ
+#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="STAR GOLD SEL HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/i9knn3vzung5y2w112kb4/STAR-GOLD-SEL-HD.svg?rlkey=rtcpb5noar06yir8u9t167aue&st=siw22i67&" group-title="India",STAR GOLD SEL HD
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA3mbxe8nlL2rdpEH2607g44
+#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="COLORS BANGLA HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/z8w6m53z2amjwewmt1scg/COLORS-BANGLA-HD.webp?rlkey=l4vj3afawtm8iazruw7sv3hql&st=fyrfutwq&" group-title="India",COLORS BANGLA HD
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA1m-C_2EIhsZda2eN2z-yro
+#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="JALSHA MOVIES HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/l13y0rk8jm8p59kyoj6b3/JALSHA-MOVIES-HD.png?rlkey=90ldpppvgtrscmsj13irl9jfm&st=1d73yfc7&" group-title="India",JALSHA MOVIES HD
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA5czJZdJL5NIAEXBZ-4lMb0
+#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="STAR JALSHA HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/uvp3exn5kq13ze9fdcmtw/STAR-JALSHA-HD.png?rlkey=rxmkqscljuivi11v01e4dwulj&st=r8mac7xu&" group-title="India",STAR JALSHA HD
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA7KmZiV1VLWfumYmaIyCmgA
+#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="ZEE CAFE HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/qgngermmg58qht5yzjxoi/ZEE-CAFE-HD.png?rlkey=ntyjo8bu4ahmaex5cu1cl099h&st=1o1r97hj&" group-title="India",ZEE CAFE HD
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA-zsBzXTqzyDaNsy4YUfQBs
+#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="& FLIX HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/sls9z8fsqvqxvrflckjvu/FLIX-HD.png?rlkey=8q6rx7rvqu1ebpjs90d3ly3bi&st=oyrbwq7f&" group-title="India",& FLIX HD
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA-KYkzcq1Lx-hVnGrYWojag
+#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="SUB TV HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ekmt6t9uu3nqfd40f6h8w/SUB-TV-HD.png?rlkey=k91yx3indffhjt1hskrxaa261&st=66v7r3aq&" group-title="India",SUB TV HD
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA48SQVRIhLk9q5F2GVkdyi8
+#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="SONY HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/vwa7xah3obwaawaybln49/SONY-HD.png?rlkey=dpvgbhk8aeb0xah00zi1xd9lo&st=wm7sil8f&" group-title="India",SONY HD
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA5cc-JzyUsEkIbufeH14TB4
+#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="&TV HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/aba72smk7cj1qv3b5dtsf/TV-HD.jpg?rlkey=vnkiz6108hhtrz3bdxtlutt8v&st=7otv0w5b&" group-title="India",&TV HD
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA1cLlNDXH7J1Jn8v3Onl-r4
+#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="ZEE BANGLA CINEMA HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/jx660r9b27w0fi9mxzuuc/ZEE-BANGLA-CINEMA-HD.webp?rlkey=i8enxb8gcnibxpg6l19a4fboa&st=v7agplhu&" group-title="India",ZEE BANGLA CINEMA HD
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAwle_5XXDJlfauzFE6F8VsQ
+#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="ZEE NEWS" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/w8gzqns40tykrxqol6157/ZEE-NEWS.webp?rlkey=jliga0eyywdx76zepvlnbs7af&st=6sywjdej&" group-title="India",ZEE NEWS
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAwp9F7M7dy-hUjichD4O5TA
+#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="R.TV BANGLA NEWS" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/xuwhl1denrup0yxheq70z/R.TV-BANGLA-NEWS.png?rlkey=0qphef4q3lvn8lnq79y9k9tf7&st=chpwwaff&" group-title="India",R.TV BANGLA NEWS
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA4rfRWhw54IpB93bbx7_19Y
+#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="& PICTURE HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/w7hv71gum4fjj7bj9a30i/PICTURE-HD.jpg?rlkey=sl4oyn8adu2fldhnvny97vmfk&st=ef89ss8k&" group-title="India",& PICTURE HD
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA_vrXS8PTCO9UR3nth01qUY
+#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="9XM" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/yfykt08c5b6lafwxqmvke/9XM.svg?rlkey=29ov1a2hkhk3n76h5xuwwh0v7&st=nehw5sub&" group-title="India",9XM
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA5npyVJzmcSk1f8iLT69XKc
+#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="MASTIII" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/smda86xr0pt6btaedtaz6/MASTIII.webp?rlkey=pr75c4etvtutvg7r2zsgnlp3d&st=f0s4w4vc&" group-title="India",MASTIII
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA9KfTa7j96aMi6krK_pcma8
+#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="SANGEET BANGLA" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/yunb98xai4cvthzui8uwa/SANGEET-BANGLA.webp?rlkey=zv1t6xpbzjcdovr32eip3347j&st=3rf81jbl&" group-title="India",SANGEET BANGLA
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA9AHn1Xwd7BtGPZVaIfJVf8
+#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="SONY ATTH" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/u8vllve98pp7eu81jvbvh/SONY-ATTH.png?rlkey=n9idnqdxqvl9nbiq00k8w3wbx&st=nwmh8kai&" group-title="India",SONY ATTH
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA8w8iYeaX0ac2OW28RzGY90
+#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="VH 1 HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/yrhngzm3b9ur59qvgh02h/VH-1-HD.png?rlkey=5n2zv4xzldvtp3out6gno7unn&st=7wm0img9&" group-title="India",VH 1 HD
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA0FuZJqodlomE1xYx7JHZas
+#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="STAR GOLD 2 HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/atq9ja40myybnxjyl2yn9/STAR-GOLD-2-HD.png?rlkey=e9urasfrdzh8dxmy28fhdceh8&st=imff6p2c&" group-title="India",STAR GOLD 2 HD
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA0CzYiQQbxSPlxSGwgbRFHs
+#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="COLORS CINEPLEX HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/0w7vzxj746b8ow063sh7x/COLORS-CINEPLEX-HD.png?rlkey=opvg2vzqo2wtkpz3soykjj59i&st=dwa3brgg&" group-title="India",COLORS CINEPLEX HD
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA-_zbeds-s_T_pBXJlcrz80
+#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="MTV INDIA" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/p882e31rjo7yn8wcca05p/MTV-INDIA.svg?rlkey=uxi2ujqxz9fx7ui04jx4ft8b1&st=scfqc2ti&" group-title="India",MTV INDIA
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA5h21Af785p13DD2ctFht6Q
+#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="GEO SUPER" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/168gjlcz8194wmiqxb976/GEO-SUPER.png?rlkey=p5vkmk55h4b3z6tg1l6ir33uj&st=g7opgsjg&" group-title="India",GEO SUPER
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA2NnBfpteKtx5uGLNAgM5Zs
+
+
+--------------------------------------- ISLAMIC ---------------------------------------
+#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="Peace TV Bangla  HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/lrgwhvc7e70azmnld5h6x/Peace-TV-Bangla-HD.webp?rlkey=z6knlryxvwja2mxebzphu6psy&st=u51huofy&" group-title="ISLAMIC",Peace TV Bangla  HD
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA_qgr7GyG8jkd9M5mp3pNvE
+
+
+
+--------------------------------------- ENGLISH ---------------------------------------
+#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="AXN HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/z5g9ij8csbzt017cs8k4d/AXN-HD.svg?rlkey=yvkt39w4g0hlyds5f5c9k0osb&st=sz86rb1m&" group-title="ENGLISH",AXN HD
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA61BVEvUTViU72bEXsttoWA
+#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="BBC EARTH HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/p2xt7ngvlcaigh56g2iec/BBC-EARTH-HD.png?rlkey=4jtqi206t9ftprbiyd8kuq204&st=fpbboxht&" group-title="ENGLISH",BBC EARTH HD
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA5uPpEItplo02Km--IqdQ8c
+#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="BBC LIFESTYLE HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/cxmlz2gqiwcpyix8zsd8h/BBC-LIFESTYLE-HD.jpg?rlkey=8gdby61cbq3ha21ld5gvmbbeb&st=8emoiqat&" group-title="ENGLISH",BBC LIFESTYLE HD
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAzz68JJlPZWJZt0wKMGU5Sw
+#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="HISTORY TV18 HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/1y1olduocxir2tofqz4ge/HISTORY-TV18-HD.webp?rlkey=f0h315z57vrnxjqgkr8mk8o43&st=i6bwcxx5&" group-title="ENGLISH",HISTORY TV18 HD
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA63w0HrH40Zz_eOy4I63lcs
+#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="MN+ HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/pgzkyjhrzwfy79ynac71k/MN-HD.jpeg?rlkey=b6dr6zdeq07wa4e844i23qk4q&st=lq00dkqu&" group-title="ENGLISH",MN+ HD
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAxA7H3hlj-_Q1X8K3LqwB7w
+#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="NAT GEO HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/tuhrt8kirybnwwaxdvoz1/NAT-GEO-HD.png?rlkey=znq5a9p95ea01y8jowjcfijod&st=isl29bgy&" group-title="ENGLISH",NAT GEO HD
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA8Wb1ckUItbyhIPhcQE63Qo
+#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="NAT GEO WILD HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/7rxt6yzexo4m9qsrg66y7/NAT-GEO-WILD-HD.png?rlkey=t2tsph6td01573t6aos9cch05&st=c8hmj1fq&" group-title="ENGLISH",NAT GEO WILD HD
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAz5RczB08W7KYwaAYnlLfss
+#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="TLC HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/7c061pvaqpym07kp2jnt8/TCL-HD.png?rlkey=k7xjy0o7rwms91g0dn8v5cscs&st=1zrum8fg&" group-title="ENGLISH",TLC HD
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA4yczWrend7pfGCiZrGw9LI
+#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="DW ENGLISH HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/fvhnxsly4muv8axuo48yt/DW-ENGLISH-HD.jpg?rlkey=55gj6aguluk66583cfhviayb6&st=cteh1s64&" group-title="ENGLISH",DW ENGLISH HD
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAzjTq75zoOSPsOGM5Mg9--s
+#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="BBC WORLD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/0ffkzwtoin5ingtb0qib3/BBC-WORLD.png?rlkey=mswouu65zf7fecoasq1qlgzpz&st=xi8i6b8a&" group-title="ENGLISH",BBC WORLD
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA0HmZbyPChrarr0v1zTcBOA
+#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="CNN INTERNATIONAL" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/qb5fatmkh6sttbnhv043d/CNN-INTERNATIONAL.png?rlkey=otrp30gryc3hdqv979n7c0pla&st=5obzr14b&" group-title="ENGLISH",CNN INTERNATIONAL
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAxlFmkhEoShP524f4j6nSI0
+#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="STAR MOVIES HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/wx8g9g1z2izd6ghw6r05o/STAR-MOVIES-HD.jpg?rlkey=q89gqoos082d0hmm5p86cndzx&st=j46meqwy&" group-title="ENGLISH",STAR MOVIES HD
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA1ekp3Fy7D94wMxtS9g2lBY
+#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="TCL HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/7c061pvaqpym07kp2jnt8/TCL-HD.png?rlkey=k7xjy0o7rwms91g0dn8v5cscs&st=42bol6b8&" group-title="ENGLISH",TCL HD
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA993B1sDkuala-9B69I6Txc
+#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="FOX LIFE HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/sw6ybgp6bdjj75vaxtpnt/FOX-LIFE-HD.png?rlkey=wzoma5t2wcckoxk4pms99g6yu&st=7si80clu&" group-title="ENGLISH",FOX LIFE HD
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA0kE0hctTCx2ma0XE99OPy4
+#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="BET HD*" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/2yz7xvmp7tdrvekbk3kqx/BET-HD.jpg?rlkey=w35plsuf22lsqn43a5o8f6s08&st=hry0pnz5&" group-title="ENGLISH",BET HD*
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAxbjwbYUSPCCz3TyOpCZz88
+#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="TRAVEL XP HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/nfqs38w5efo37egztgmcz/TRAVEL-XP-HD.svg?rlkey=da7lhvd3relkl3nepwagex5h1&st=7o5s2r8y&" group-title="ENGLISH",TRAVEL XP HD
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA1E1Nh9PgtZxs0-mWHRHjpU
+
+--------------------------------------- SPORTS ---------------------------------------
+#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="T SPORTS HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/wnq7sjxevxipizc61t35r/T-SPORTS-HD.jpg?rlkey=kf4x8mi8l9wz3a941ks5nh870&st=is8wa38x&" group-title="SPORTS",T SPORTS HD
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA_EZvRERoc3gLd1P3fd64kk
+#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="A SPORTS HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ftk2osygedu9984qlyn3v/A-SPORTS-HD.png?rlkey=uu2cr6q1xvcwxr1zcorgyvfgu&st=caxm1xtj&" group-title="SPORTS",A SPORTS HD
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA1T9yO-JBU_w4AaSxGEvWi4
+#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="EUROSPORT HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/s7tjztl9xgakhdle6mjso/EUROSPORT-HD.png?rlkey=0klnbnouv83y5b2zp2hzsn40g&st=3x63khmc&" group-title="SPORTS",EUROSPORT HD
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA0ndJdWOZEQD7BHch3bEVNI
+#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="SONY TEN 1 HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/hv9bxkgdietj9zpexdgsc/SONY-TEN-1-HD.png?rlkey=5mlpv0b9xxqnjb578ki6bfti1&st=evqm284t&" group-title="SPORTS",SONY TEN 1 HD
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA03s0umUedSUliCAAO3RNs8
+#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="SONY TEN 2 HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/8muam4sgo1qw7m9l3sn40/SONY-TEN-2-HD.webp?rlkey=ov7olwzoeq8i8w0dw85wfkudi&st=6t6nivi9&" group-title="SPORTS",SONY TEN 2 HD
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA5-zeaOabG-vjosNtqWeNWY
+#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="SONY TEN 3 HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/tu9exb70bmws055xwuovh/SONY-TEN-3-HD.webp?rlkey=pu95hqvhfzfq8t4zwfre5da7h&st=j1xqmytz&" group-title="SPORTS",SONY TEN 3 HD
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA9WNqMl3r-zVZ-NgK6By-nU
+#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="SONY TEN 5 HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/3vx1j4m80ws4zs276mqvg/SONY-TEN-5-HD.png?rlkey=3z14sov6io6uvc95ww7mfs9dh&st=dxm88kyp&" group-title="SPORTS",SONY TEN 5 HD
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA8M5s-R1JCgC7RJoFr2X5Rw
+#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="SPORTS 18 HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/6l16b1erclrquj1zj9kby/SPORTS-18-HD.png?rlkey=w7yhg0fqh60jlv2f9pyil3wit&st=vzt3lch1&" group-title="SPORTS",SPORTS 18 HD
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA98PzWIzraWb90pov-Jlhqo
+#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="TNT SPORTS 4 HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/3n07htnltfmjmflw3lclv/TNT-SPORTS-4-HD.png?rlkey=auobxy2vylyqefx09b800ryvd&st=lp3sihzc&" group-title="SPORTS",TNT SPORTS 4 HD
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA4AEYLf37lj8r3F9ARc5WBI
+#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="STAR SPORTS 1 HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/sbypyoiyqenh7o3wb5lp7/STAR-SPORTS-1-HD.png?rlkey=jxs785lytgqt8kbp1u4ytymbt&st=iwi21pl2&" group-title="SPORTS",STAR SPORTS 1 HD
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA9SmD9DBUBBFryQ6ZMeIzxM
+#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="STAR SPORTS 2 HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/rjw3gpdzurqfvvoj6lbzl/STAR-SPORTS-2-HD.webp?rlkey=nu9i1cnfnt0q57dd9pm6l0dn4&st=0hy56jqg&" group-title="SPORTS",STAR SPORTS 2 HD
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAx6-mphBg8gl7Hrc1b_hlqQ
+#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="STAR SPORTS 3" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/tsee4n1p8jj7ml9ui86fk/STAR-SPORTS-3.png?rlkey=ho4n51gxz6e8rwn2a4c40dcao&st=tcxgbnow&" group-title="SPORTS",STAR SPORTS 3
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAzWZsqMCHvXNIndhQFhrNeQ
+#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="STAR SPORTS SL 1 HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ijk9fz4igvw1k6ttambab/STAR-SPORTS-SL-1-HD.webp?rlkey=rdn8aecw2kysffculnivugp8f&st=5u6r34t5&" group-title="SPORTS",STAR SPORTS SL 1 HD
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA324orKoVmE1EM18g8AcgYI
+#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="STAR SPORTS SL 2 HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/r6hnj7ao6eo8l1m86ujex/STAR-SPORTS-SL-2-HD.webp?rlkey=6l19n6dddnje3n9qeozsfwka8&st=dfh8kabx&" group-title="SPORTS",STAR SPORTS SL 2 HD
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA0GyQmEKMAZIKFiWcUqBfEM
+#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="TNT SPORTS 1 HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/1qv39t66k7mo5gspdqvw8/TNT-SPORTS-1-HD.png?rlkey=i6k0lu5fw8chehhw2rjf4hkpz&st=f0o9s0j1&" group-title="SPORTS",TNT SPORTS 1 HD
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA3OdK5xHLTpDcHZnEMnM-FA
+#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="TEN SPORTS HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/cx4pc1x0g6q85g2ar3bdg/TEN-SPORTS-HD.png?rlkey=l0ivn78l0p3jfljxsz0naoxuy&st=xey1ya91&" group-title="SPORTS",TEN SPORTS HD
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA6hYMAvYELfySLVDWBMxvqc
+#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="SONY TEN2 HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/8muam4sgo1qw7m9l3sn40/SONY-TEN-2-HD.webp?rlkey=ov7olwzoeq8i8w0dw85wfkudi&st=vf5itwii&" group-title="SPORTS",SONY TEN2 HD
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAz8CvWgCp9hufE5nEp7b59M
+#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="STAR SPORTS SL1 HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ijk9fz4igvw1k6ttambab/STAR-SPORTS-SL-1-HD.webp?rlkey=rdn8aecw2kysffculnivugp8f&st=jkz3zp16&" group-title="SPORTS",STAR SPORTS SL1 HD
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA4VAyhUIDSAU7x51LY-x7PA
+#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="STAR SPORTS SL2 HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/r6hnj7ao6eo8l1m86ujex/STAR-SPORTS-SL-2-HD.webp?rlkey=6l19n6dddnje3n9qeozsfwka8&st=9m1mtjua&" group-title="SPORTS",STAR SPORTS SL2 HD
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAwy9HUkF_tLFW6RllIfexOQ
+#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="TEN CRICKET HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/suv3i4txv8inbumbjjxhi/TEN-CRICKET-HD.jpg?rlkey=fd350weawvqrhoo21njequiy5&st=mokcqisg&" group-title="SPORTS",TEN CRICKET HD
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAxYmOdwYKD9TaHZUX2ACjo8
+#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="T SPORTS FHD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/0jgdey5qu3d6f1u650gsr/T-SPORTS-FHD.png?rlkey=yx234t90mf6rzd3ocgoubexid&st=b75vrmf9&" group-title="SPORTS",T SPORTS FHD
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA7DzImxWwZd-nNy7aKwgGzI
+#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="BEIN  SPORTS 2 ENG" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/glj228uzeujvcy7udawvy/BEIN-SPORTS-2-ENG.webp?rlkey=a8311dhitlu56khfc4da1cnah&st=g2q4etiw&" group-title="SPORTS",BEIN  SPORTS 2 ENG
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA3rAU3tEQJkgiMFSDMBcrcw
+#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="BEIN  SPORTS 1 ENG" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/3vdqvgqtfx0k1wsy0mlm1/BEIN-SPORTS-1-ENG.webp?rlkey=4cr4h9190qj17loz77cpxdzm2&st=vn1q43kk&" group-title="SPORTS",BEIN  SPORTS 1 ENG
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA88ymJzFiqlYQGcDDiw6_3Q
+#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="BEIN SPORTS 3 ENG" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/tnvmjpswhjlhk7nssnmar/BEIN-SPORTS-3-ENG.webp?rlkey=qn2fp80efa7dcfz7dyievuuwh&st=woqwxkbh&" group-title="SPORTS",BEIN SPORTS 3 ENG
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAwk0wF2fXmtZee4HPoCd7Jo
+#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="WILLOW XTRA HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/q463x659r9naumk9q6jav/WILLOW-XTRA-HD.webp?rlkey=7mxwmec83krj90bdooct6jh0b&st=25ver7x2&" group-title="SPORTS",WILLOW XTRA HD
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAxzY-hOBEGbGvVX98TVDy-U
+#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="SUPER PREMIER LEAGUE HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/00fzugk0egqc90lnjkkcl/SUPER-PREMIER-LEAGUE-HD.png?rlkey=0keagv9t1jch2b4300is5sm74&st=74xth3oc&" group-title="SPORTS",SUPER PREMIER LEAGUE HD
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA9rsD7HSqulfmiwa28oPDYw
+#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="SUPER SPORTS CRICKET HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/skvvt4zk2euiqbuqsokzy/SUPER-SPORTS-CRICKET-HD.png?rlkey=tfgv8soizsv5oqr6ix0dowwyy&st=goaj2gmd&" group-title="SPORTS",SUPER SPORTS CRICKET HD
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA1k_gAKFpRKgkOIIHQ-efNw
+#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="SUPER LALIGA HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/phwflc1kr0617yuleswiw/SUPER-LALIGA-HD.webp?rlkey=8dxicrtfblzxu1cvxawurj8l1&st=8teilb28&" group-title="SPORTS",SUPER LALIGA HD
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA1H6lHsiJVQxI52n77SIz4c
+#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="PTV SPORTS HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ljcn76ew2vdqf7cictxj0/PTV-SPORTS-HD.png?rlkey=1rvsl7ral7djfxcqwmy5l1qmr&st=2lguxjtz&" group-title="SPORTS",PTV SPORTS HD
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA2osZeAdagOcS1vRJAYWF_Y
+#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="GEO SUPER SPORTS" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ni8ve51f0ifchsa0ryucx/GEO-SUPER-SPORTS.png?rlkey=usl4enz6i30rtlp2xy2z1ui6m&st=11sdki3o&" group-title="SPORTS",GEO SUPER SPORTS
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAxp1mLgFdzrXj-H1SqgcIpY
+#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="BEIN SPORTS HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/nosm01lqrfz116h21hrhj/BEIN-SPORTS-HD.jpg?rlkey=r777evk44etlkebfos9r2q6vg&st=pjqytgps&" group-title="SPORTS",BEIN SPORTS HD
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA0yhGAdbZKR3Xm9j5oGIsYs
+#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="EURO SPORTS HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/cgj51dovru2jp11o2z74u/EURO-SPORTS-HD.png?rlkey=sj4al07g25xg7elwlf7zifx57&st=4kv6vf7q&" group-title="SPORTS",EURO SPORTS HD
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA66mVj3wqB2MDpjz0dPPo_0
+#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="STAR SPORTS HD1 CB" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/a5tzpa0tofjs2zzn3dei7/STAR-SPORTS-HD1-CB.png?rlkey=0v5v33llncq3art6m1ly5lgd6&st=jzgkhs26&" group-title="SPORTS",STAR SPORTS HD1 CB
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA1Gjd37lfHfc1DNAOAa4jsg
+#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="WILLOW CRICKET" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/xw9i2qkx1uzd7p6grwi0k/WILLOW-CRICKET.jpg?rlkey=mv02e2mryat57fth30n8mejb4&st=8sqvjh63&" group-title="SPORTS",WILLOW CRICKET
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA1g-_KkzBq-pqdOeKpZdC-0
+#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="TNT SPORTS 2 HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/iw4l9tuzumm5frlxky0in/TNT-SPORTS-2-HD.png?rlkey=m7z7wss3tsxdeaxw421hzzzbv&st=p0mrbl15&" group-title="SPORTS",TNT SPORTS 2 HD
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA2YfXNYgfMH_pqpdNuFoqi8
+
