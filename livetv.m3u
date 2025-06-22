@@ -76,7 +76,6 @@ http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA8Rdu2rV1LqQ1_nlHo2NjTA
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAzp7OSZQJzZcZLRrRYRy28k
 
 
-
 --------------------------------------- Kids ---------------------------------------
 #EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="BBC CBEEBIES HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ya10zvtbafezzbekmrixi/BBC-CBEEBIES-HD.png?rlkey=z0l9z6uvyrg0wnd0vva3fh0y6&st=vyz7lcxd&" group-title="Kids",BBC CBEEBIES HD
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA47gNSB7wvuox-RI3RUmV6Y
@@ -84,8 +83,6 @@ http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA47gNSB7wvuox-RI3RUmV6Y
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA-0TKJRZGDHE1U_J1zGJ9fw
 #EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="CARTOON NETWORK" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/udp70xa10s65jzcdv5n8b/CARTOON-NETWORK.png?rlkey=rt447ewktq0cc322b6aa0d5r3&st=erki75y3&" group-title="Kids",CARTOON NETWORK
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAx0gjyPMSijXAXA7ZhRyX-k
-#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="KHUSHBOO" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/d9cxsp5lt7b6hqpemtzzb/KHUSHBOO.webp?rlkey=0af5vp50lertk2tec484sl7oi&st=qz21c0c2&" group-title="Kids",KHUSHBOO
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA84x18JTac-ud61DIKvpe0o
 #EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="NICK SD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/pmfee7og41leukg2kvvjv/NICK-SD.webp?rlkey=ae0go7aa3mirxpt9tzfhbt5ae&st=u079ux4i&" group-title="Kids",NICK SD
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA94MzVPKdI7F2qBKeLKpbD0
 #EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="NICK TV HD+" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/imy6npsrqbewhpa0jbdsa/NICK-TV-HD.jpg?rlkey=xxgypxm6gefcvfs1mhdbbqd3u&st=asptp892&" group-title="Kids",NICK TV HD+
@@ -102,8 +99,6 @@ http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA0Wn0CC-9ZOBT1v4cuqhmDU
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA7XznN44TSPx21_EdXW9-bo
 #EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="POGO" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/d6lnbaakvjw2u3vkml7ha/POGO.png?rlkey=79kpz5vdj3b8fzlq301vtbi6w&st=pjh8vlco&" group-title="Kids",POGO
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA6jLJs-x9JkMCsHpFukynww
-
-
 
 
 --------------------------------------- INDIA ---------------------------------------
@@ -185,12 +180,13 @@ http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA-_zbeds-s_T_pBXJlcrz80
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA5h21Af785p13DD2ctFht6Q
 #EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="GEO SUPER" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/168gjlcz8194wmiqxb976/GEO-SUPER.png?rlkey=p5vkmk55h4b3z6tg1l6ir33uj&st=g7opgsjg&" group-title="India",GEO SUPER
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA2NnBfpteKtx5uGLNAgM5Zs
+#EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="KHUSHBOO" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/d9cxsp5lt7b6hqpemtzzb/KHUSHBOO.webp?rlkey=0af5vp50lertk2tec484sl7oi&st=qz21c0c2&" group-title="Kids",KHUSHBOO
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA84x18JTac-ud61DIKvpe0o
 
 
 --------------------------------------- ISLAMIC ---------------------------------------
 #EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="Peace TV Bangla  HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/lrgwhvc7e70azmnld5h6x/Peace-TV-Bangla-HD.webp?rlkey=z6knlryxvwja2mxebzphu6psy&st=u51huofy&" group-title="ISLAMIC",Peace TV Bangla  HD
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA_qgr7GyG8jkd9M5mp3pNvE
-
 
 
 --------------------------------------- ENGLISH ---------------------------------------
@@ -226,6 +222,7 @@ http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA0kE0hctTCx2ma0XE99OPy4
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAxbjwbYUSPCCz3TyOpCZz88
 #EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="TRAVEL XP HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/nfqs38w5efo37egztgmcz/TRAVEL-XP-HD.svg?rlkey=da7lhvd3relkl3nepwagex5h1&st=7o5s2r8y&" group-title="ENGLISH",TRAVEL XP HD
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA1E1Nh9PgtZxs0-mWHRHjpU
+
 
 --------------------------------------- SPORTS ---------------------------------------
 #EXTINF:-1 tvg-id=" btvworld.bd " tvg-name="T SPORTS HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/wnq7sjxevxipizc61t35r/T-SPORTS-HD.jpg?rlkey=kf4x8mi8l9wz3a941ks5nh870&st=is8wa38x&" group-title="SPORTS",T SPORTS HD
