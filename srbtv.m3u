@@ -7,30 +7,8 @@ https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
 https://andro.226503.xyz/checklist/androstreamlivebiraz1.m3u8
 #EXTINF:-1 tvg-logo="https://www.gulf-times.com/uploads/imported_images/Upload/Slider/42021200155132222623.jpg" group-title="FIFA",Bein FIFA
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/gBKF-4ShmH1nUAyKQ0XU5a9i_jLkOXCqlbCm5J4OnV5iJUUuYgoOMvLpwDRm_kXQxMhbDuz_B84rVpf-s4VsCA" group-title="FIFA",TVP FIFA
-https://1nyaler.streamhostingcdn.top/stream/89/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDfsCwHWQsMUmTMuyBeX5T4bvZXQXg-gtPSQ&s" group-title="FIFA",Win FIFA
-https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Bangladesh_Television_Logo.svg/1280px-Bangladesh_Television_Logo.svg.png" group-title="FIFA",BTV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlr1stDTT7SVWV_6yI68ewQz7N9Rk5Vtbn_Q&s" group-title="FIFA",Last Estra Mx
-https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/2SPC4wwN/hd-official-2026-FIFA-world-cup-transparent-png-701751712076865bw3umpw9lk.png" group-title="FIFA",Fox
-http://84.17.50.102/fox/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/64/Caz%C3%A9TV_logo.svg" group-title="FIFA",CAZE TV 720p
-https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/64/Caz%C3%A9TV_logo.svg" group-title="FIFA",CAZE TV HD
-https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/720p-vtt/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/2SPC4wwN/hd-official-2026-FIFA-world-cup-transparent-png-701751712076865bw3umpw9lk.png" group-title="FIFA",T Sports (Embed)
-https://tv.instantdl.cfd/
-#EXTINF:-1 group-title="FIFA",Tsn 1
-https://streams.center/embed/ch2.php
-#EXTINF:-1 group-title="FIFA",HD
-https://streams.center/embed/ch1.php
-#EXTINF:-1 group-title="FIFA",WC
-https://allrounderlive.in/tsn
-#EXTINF:-1 group-title="FIFA",Sporza
-https://allrounderlive.in/eng
+
+
 #EXTINF:-1 tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" group-title="FIFA",T FIFA HD B
 http://198.195.239.50:8095/tFIFA/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://198.195.239.50/img/channels/STAR SPORTS1 HD.png" group-title="Sports",START SPORTS1
