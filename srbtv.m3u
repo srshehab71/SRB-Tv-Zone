@@ -131,6 +131,12 @@ http://172.19.17.4:8090/hls/JalshaMoviesHD.m3u8
 #EXTINF:-1 tvg-logo="http://172.19.17.28/images/zeebangla.png" group-title="BANGLA",ZEE BANGLA
 http://172.19.17.4:8090/hls/ZeeBanglaHD.m3u8
 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/uvp3exn5kq13ze9fdcmtw/STAR-JALSHA-HD.png?rlkey=rxmkqscljuivi11v01e4dwulj&st=r8mac7xu&" group-title="BANGLA",STAR JALSHA
+http://172.19.17.4:8090/hls/StarJalshaHD.m3u8
+
+#EXTINF:-1 tvg-id="starjalsha.in" tvg-logo="http://openboxv8s.com/india/star_jalsha.png" group-title="Bangla",STAR JALSHA HD (Recorded)
+https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8
+
 #EXTINF:-1 tvg-logo="http://172.19.17.28/images/sonyaath.png" group-title="BANGLA",SONY AATH
 http://172.19.17.4:8090/hls/SonyAtth.m3u8
 
@@ -142,7 +148,6 @@ https://amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv/playlist/amg014
 
 #EXTINF:-1 group-title="News" tvg-logo="https://images.seeklogo.com/logo-png/39/1/the-times-of-india-logo-png_seeklogo-398941.png", Times of India
 https://live.sli.ke/live/npnhm84gz9/master.m3u8
-
 
 #EXTINF:-1 group-title="Indian Bangla" group-title="Inbangla" tvg-logo="https://i.postimg.cc/tTNPLBMs/24-Ghanta.jpg",Zee 24 Ghanta
 https://d2dsoyvkr33m05.cloudfront.net/index_1.m3u8
