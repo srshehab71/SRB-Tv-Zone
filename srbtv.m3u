@@ -44,7 +44,7 @@ https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-id="100" tvg-name="Bangla Vision" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Bangla%20Vision.webp",Bangla Vision
 https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
 
-#EXTINF:-1 group-title="BANGLA" tvg-name="Deshi TV (720p)" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Deshi%20TV%20(720p).webp",Deshi TV (720p)
+#EXTINF:-1 group-title="BANGLA" tvg-name="Deshi TV (720p)" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Deshi%20TV.webp",Deshi TV (720p)
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 
 #EXTINF:-1 group-title="BANGLA" tvg-name="Boishakhi TV" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Boishakhi%20TV.webp",Boishakhi TV
@@ -155,13 +155,13 @@ https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453
 #EXTINF:-1 group-title="Kids" tvg-name="Jungle Book" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Jungle%20Book.webp",Jungle Book
 https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
 
-#EXTINF:-1 group-title="Kids" tvg-id="UniqueTV.in@SD" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Unique%20TV%20(576p).webp",Unique TV (576p)
+#EXTINF:-1 group-title="Kids" tvg-id="UniqueTV.in@SD" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Unique%20TV.webp",Unique TV (576p)
 https://mumt05.tangotv.in/87NeALx2UNIQUETV/index.m3u8
 
-#EXTINF:-1 group-title="Kids" tvg-id="PequesTV.pe@SD" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Peques%20TV%20(720p).webp",Peques TV (720p)
+#EXTINF:-1 group-title="Kids" tvg-id="PequesTV.pe@SD" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Peques%20TV.webp",Peques TV (720p)
 https://live-evg7.tv360.bitel.com.pe/bitel/pequestv/playlist.m3u8
 
-#EXTINF:-1 group-title="Kids" tvg-id="FillkaTv" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Superhitz%20(720p).webp",Fillka Tv (720p)
+#EXTINF:-1 group-title="Kids" tvg-id="FillkaTv" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/FILLKA%20TV.webp",Fillka Tv (720p)
 https://live-evg5.tv360.bitel.com.pe/bitel/fillka/playlist.m3u8
 
 
@@ -246,14 +246,14 @@ http://172.19.17.4:8090/hls/ZeeBanglaHD.m3u8
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/908680.m3u8
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/908681.m3u8
 
-#EXTINF:-1 group-title="INDIAN" tvg-name="┃BANGLA┃ COLORS BANGLA" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/COLORS%20BANGLA.webp",┃BANGLA┃ COLORS BANGLA
+#EXTINF:-1 group-title="INDIAN" tvg-name="COLORS BANGLA" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/COLORS%20BANGLA.webp",COLORS BANGLA
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/908665.m3u8
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/908654.m3u8
 
 #EXTINF:-1 group-title="INDIAN" tvg-id="RupasiBangla.in@SD" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Rupasi%20Bangla.webp",Rupasi Bangla (576p)
 https://mumt05.tangotv.in/87NeALx2RUPASIBANGLA/index.m3u8
 
-#EXTINF:-1 group-title="INDIAN" tvg-name="┃BANGLA┃ SUN BANGLA" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/SUN%20BANGLA.webp",┃BANGLA┃ SUN BANGLA
+#EXTINF:-1 group-title="INDIAN" tvg-name="SUN BANGLA" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/SUN%20BANGLA.webp",SUN BANGLA
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/908685.m3u8
 
 #EXTINF:-1 group-title="INDIAN" tvg-id="Rang.in@SD" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Rang.webp",Rang (576p)
@@ -426,7 +426,7 @@ https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiam
 
 
 --------------------------------- INFORMATION -------------------------------------
-#EXTINF:-1 group-title="Information" tvg-id="NationalGeographicWild.in@HD" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/National%20Geographic%20Wild%20HD%20(720p).webp",National Geographic Wild HD (720p)
+#EXTINF:-1 group-title="Information" tvg-id="NationalGeographicWild.in@HD" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/National%20Geographic%20Wild%20HD.webp",National Geographic Wild HD (720p)
 http://217.20.112.199:8080/natgeowild/index.m3u8
 
 #EXTINF:-1 group-title="Information" tvg-name="Animal Planet HD" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Animal%20Planet%20HD.webp",Animal Planet HD
