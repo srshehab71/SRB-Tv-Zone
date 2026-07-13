@@ -563,10 +563,10 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/pl
 https://live20.bozztv.com/giatvplayout7/giatv-209592/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="গান" tvg-name="Music India" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Music%20India.webp",Music India
-https://cdn-2.pishow.tv/live/415/master.m3u8
+http://103.175.73.12:8080/live/158/158_0.m3u8
 
 #EXTINF:-1 group-title="গান" tvg-name="B4U Music [576p]" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/B4U%20Music.webp",B4U Music [576p]
-http://103.175.73.12:8080/live/158/158_0.m3u8
+https://cdn-2.pishow.tv/live/415/master.m3u8
 
 #EXTINF:-1 group-title="গান" tvg-name="Zoom" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Zoom.webp",Zoom
 https://d2esfk1pb9cdob.cloudfront.net/master.m3u8
