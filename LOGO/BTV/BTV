@@ -1,0 +1,16 @@
+#EXTM3U
+#EXT-X-VERSION:3
+
+#EXTINF:-1 group-title="বাংলাদেশি" tvg-name="BTV" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/BTV/BTV.webp",BTV (Multi-Server)
+
+#--- Server 1 (720p HD) ---
+#EXT-X-STREAM-INF:BANDWIDTH=2500000,RESOLUTION=1280x720,NAME="Server-1 (HD)"
+http://172.19.17.4:8090/hls/BTVNationalHD.m3u8
+
+#--- Server 2 (720p) ---
+#EXT-X-STREAM-INF:BANDWIDTH=1500000,RESOLUTION=1280x720,NAME="Server-2 (SD+)"
+http://103.165.93.31:8095/btv/tracks-v1a1/mono.m3u8
+
+#--- Server 3 (576p) ---
+#EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=1024x576,NAME="Server-3 (Stable)"
+https://tv.beyondtaxconsultants.com/api/btv/btv.m3u8
