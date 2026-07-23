@@ -1,0 +1,15 @@
+#EXTM3U
+#EXT-X-VERSION:3
+
+#--- SERVER 1  ---
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=1280x720,FRAME-RATE=30,NAME="HD - Server 1"
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/908677.m3u8
+
+#--- SERVER 2  ---
+#EXT-X-STREAM-INF:BANDWIDTH=2000000,RESOLUTION=1280x720,FRAME-RATE=25,NAME="HD - Server 2"
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/908652.m3u8
+
+#--- SERVER 3  ---
+#EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=1024x576,FRAME-RATE=25,NAME="SD - Stable"
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/908660.m3u8
+
