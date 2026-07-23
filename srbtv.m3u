@@ -3,12 +3,11 @@
 --------------------------------- বাংলাদেশি -------------------------------------
 
 --------------------------------- বাংলাদেশি - জাতীয় চ্যানেল -------------------------------------
-#EXTINF:-1 group-title="বাংলাদেশি" tvg-name="BTV" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/BTV.webp",BTV [720p] 1
-http://172.19.17.4:8090/hls/BTVNationalHD.m3u8
-#EXTINF:-1 group-title="বাংলাদেশি" tvg-name="BTV" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/BTV.webp",BTV [720p] 2
-http://103.165.93.31:8095/btv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="বাংলাদেশি" tvg-name="BTV" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/BTV.webp",BTV [576p]
-https://tv.beyondtaxconsultants.com/api/btv/btv.m3u8
+#EXT-X-VERSION:3
+
+#EXTINF:-1 group-title="বাংলাদেশি" tvg-id="BTV.bd" tvg-name="BTV" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/BTV/BTV.webp",BTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/refs/heads/main/LOGO/BTV/BTV.m3u8
 
 #EXTINF:-1 group-title="বাংলাদেশি" tvg-id="228" tvg-name="BTV Shangshad" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/BTV%20Shangshad.webp",BTV Shangshad
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
