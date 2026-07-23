@@ -20,3 +20,4 @@ https://tv.beyondtaxconsultants.com/api/proxy?url=http://103.165.93.31:8095/tspo
 #--- সার্ভার ৫ (মিডিয়াম কোয়ালিটি) ---
 #EXT-X-STREAM-INF:BANDWIDTH=2500000,RESOLUTION=1280x720,NAME="Stable Server (SD)"
 http://103.165.93.31:8095/tsports/tracks-v1a1/mono.m3u8
+http://172.19.17.4:8090/hls/tsportshd.m3u8
