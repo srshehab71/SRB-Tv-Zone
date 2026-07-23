@@ -1,10 +1,15 @@
+
 #EXTM3U
 #EXT-X-VERSION:3
 
-#--- Channel 9 SD (360p) ---
-#EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=640x360,NAME="360p (SD)"
+#--- Deepto TV Low Quality (360p) ---
+#EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=640x360,NAME="360p (Data Saver)"
 https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/1729.m3u8
 
-#--- Channel 9 Full HD (1080p) ---
+#--- Deepto TV High Quality (1080p Server 1) ---
 #EXT-X-STREAM-INF:BANDWIDTH=3500000,RESOLUTION=1920x1080,NAME="1080p (Full HD)"
 https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
+
+#--- Deepto TV Backup (1080p Server 2) ---
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=1920x1080,NAME="1080p (Backup)"
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/908678.m3u8
