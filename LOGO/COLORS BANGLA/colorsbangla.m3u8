@@ -2,9 +2,9 @@
 #EXT-X-VERSION:3
 
 #--- সার্ভার ১ (প্রাইমারি) ---
-#EXT-X-STREAM-INF:BANDWIDTH=2500000,RESOLUTION=1280x720,NAME="Primary Server"
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/908665.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
+http://line.tvdsz.cc//play/live.php?mac=00:1A:79:B5:AD:FB&stream=908665&extension=m3u8
 
 #--- সার্ভার ২ (এইচডি ভার্সন) ---
-#EXT-X-STREAM-INF:BANDWIDTH=3500000,RESOLUTION=1920x1080,NAME="HD Server"
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/908654.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
+http://line.tvdsz.cc//play/live.php?mac=00:1A:79:B5:AD:FB&stream=908654&extension=m3u8
