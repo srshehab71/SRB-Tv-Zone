@@ -1,0 +1,14 @@
+#EXTM3U
+#EXT-X-VERSION:3
+
+#--- সার্ভার ১ (লোকাল এইচডি) ---
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=1280x720,NAME="Local Server (HD)"
+http://172.19.17.4:8090/hls/StarJalshaHD.m3u8
+
+#--- সার্ভার ২ (পাবলিক ১০৮০পি) ---
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Public Server 1"
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/908657.m3u8
+
+#--- সার্ভার ৩ (পাবলিক ১০৮০পি) ---
+#EXT-X-STREAM-INF:BANDWIDTH=4500000,RESOLUTION=1920x1080,NAME="Public Server 2"
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/908682.m3u8
