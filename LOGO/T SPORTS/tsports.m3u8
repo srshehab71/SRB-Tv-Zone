@@ -1,0 +1,22 @@
+#EXTM3U
+#EXT-X-VERSION:3
+
+#--- সার্ভার ১ (লোকাল এইচডি - সবচেয়ে স্টেবল) ---
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=1280x720,NAME="Local Server (HD)"
+http://172.19.17.4:8090/hls/tsportshd.m3u8
+
+#--- সার্ভার ২ (পাবলিক ১০৮০পি - টোকেন সোর্স) ---
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Public Server (1080p)"
+http://103.13.193.194:8082/T-SPORTS-HD/video.m3u8?token=RusriRM-L73G33
+
+#--- সার্ভার ৩ (পাবলিক ১০৮০পি - ডিরেক্ট ১) ---
+#EXT-X-STREAM-INF:BANDWIDTH=4500000,RESOLUTION=1920x1080,NAME="Direct Server (1080p)"
+http://103.165.93.31:8095/tsports/tracks-v1a1a2/mono.m3u8
+
+#--- সার্ভার ৪ (প্রক্সি সার্ভার - ব্যাকআপ) ---
+#EXT-X-STREAM-INF:BANDWIDTH=4000000,RESOLUTION=1920x1080,NAME="Proxy Backup"
+https://tv.beyondtaxconsultants.com/api/proxy?url=http://103.165.93.31:8095/tsports/tracks-v1a1a2/mono.m3u8
+
+#--- সার্ভার ৫ (মিডিয়াম কোয়ালিটি) ---
+#EXT-X-STREAM-INF:BANDWIDTH=2500000,RESOLUTION=1280x720,NAME="Stable Server (SD)"
+http://103.165.93.31:8095/tsports/tracks-v1a1/mono.m3u8
