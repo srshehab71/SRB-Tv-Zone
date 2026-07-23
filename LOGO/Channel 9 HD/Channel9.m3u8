@@ -1,15 +1,7 @@
-
 #EXTM3U
 #EXT-X-VERSION:3
 
-#--- Deepto TV Low Quality (360p) ---
-#EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=640x360,NAME="360p (Data Saver)"
-https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/1729.m3u8
-
-#--- Deepto TV High Quality (1080p Server 1) ---
-#EXT-X-STREAM-INF:BANDWIDTH=3500000,RESOLUTION=1920x1080,NAME="1080p (Full HD)"
+#--- Channel 9 (অ্যাডভান্সড অটো-সুইচ মোড) ---
+#EXTINF:-1 group-title="বাংলাদেশি" tvg-name="Channel 9" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Channel%209%20HD.webp",Channel 9 (Auto Quality)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
 https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
-
-#--- Deepto TV Backup (1080p Server 2) ---
-#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=1920x1080,NAME="1080p (Backup)"
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/908678.m3u8
