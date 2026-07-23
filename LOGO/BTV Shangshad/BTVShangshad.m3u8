@@ -3,4 +3,5 @@
 
 #--- BTV Shangshad (HD Quality) ---
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=1280x720,FRAME-RATE=30,NAME="HD - Server 1"
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
