@@ -20,14 +20,14 @@ var isStrictSmartTV = /SmartTV|WebOS|Tizen|Roku|AppleTV|BRAVIA|NetCast|VIDAA/i.t
 // ==========================================
 // OPTIMIZED ADSTERRA SMARTLINK SYSTEM (NON-BLOCKING)
 // ==========================================
-/*
+
 const SMARTLINK_URLS = [
     'https://www.profitablecpmratenetwork.com/q5bzrqysvg?key=8228f2c179574eafcbc8f068a65f15d9',
     'https://www.effectivecpmnetwork.com/ygty1zsf?key=b2f15083eed2a8d89132f615d6f46a20',
     'https://www.effectivecpmnetwork.com/wt4z30i3?key=2e2741296f162ea901f34a97fe0fbb20',
     'https://www.effectivecpmnetwork.com/m3vu26jd?key=0f69b97de19f8858ea437593044be69a'
 ];
-*/
+
 const AD_COOLDOWN_MS = 5 * 60 * 1000;
 let adTriggerReady = false;
 let isAdClosedByUser = false;
@@ -155,7 +155,7 @@ function resetDynamicSEO() {
     const defaultTitle = "এসআরবি টিভি (SRB TV) - Watch Free Live TV Channels Online";
     const defaultDesc = "এসআরবি টিভি (SRB TV) তে দেখুন দেশি-বিদেশি লাইভ টিভি চ্যানেল একদম ফ্রিতে। Watch sports, news, and entertainment live tv channels online on SRB TV.";
     const defaultUrl = window.location.origin + window.location.pathname;
-    const defaultLogo = "https://lh3.googleusercontent.com/d/1B0ayWW5xma3GilQHOoWPaGpMrqCcQ9sz";
+    const defaultLogo = "https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/logo.jpg";
 
     document.title = defaultTitle;
     if(document.getElementById('meta-desc')) document.getElementById('meta-desc').content = defaultDesc;
@@ -172,9 +172,9 @@ function resetDynamicSEO() {
 // ==========================================
 // MAIN APP LOGIC
 // ==========================================
-const DEFAULT_LOGO_URL = 'https://lh3.googleusercontent.com/d/1iM4PZ4Ra90vtIsfQVlzS3-MKbe07U27q';
+const DEFAULT_LOGO_URL = 'https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/logo.jpg';
 const WORKER_URL = "https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/srbtv.m3u";
-const corsProxy = 'https://iptvtest068.emonsa4.workers.dev/?';
+const corsProxy = '';
 
 let channelsList = []; let displayedChannels = []; let currentChannelIndex = -1; let favorites = [];
 let isAutoplayEnabled = localStorage.getItem('obiramAutoPlayLast') === 'true';
