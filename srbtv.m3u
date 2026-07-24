@@ -102,9 +102,9 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 #EXTINF:-1 group-title="বাংলাদেশি" tvg-name="Gazi TV" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Gazi%20TV.webp",Gazi TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="বাংলাদেশি" tvg-id="303" tvg-name="Desh TV" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Desh%20TV.webp",Desh TV [480p]
+#EXTINF:-1 group-title="বাংলাদেশি" tvg-id="303" tvg-name="Desh TV" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Desh%20TV.webp",Desh TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/1724.m3u8
-#EXTINF:-1 group-title="বাংলাদেশি" tvg-id="303" tvg-name="Desh TV" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Desh%20TV.webp",Desh TV [480p]
+#EXTINF:-1 group-title="বাংলাদেশি" tvg-id="303" tvg-name="Desh TV" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Desh%20TV.webp",Desh TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
 
 #EXTINF:-1 group-title="বাংলাদেশি" tvg-name="Movie Bangla" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Movie%20Bangla.webp",Movie Bangla
@@ -135,40 +135,40 @@ http://114.130.57.233:8080/Somoy-TV-3Mb/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBa
 #EXTINF:-1 group-title="বাংলাদেশি" tvg-name="Somay Tv" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Somay%20Tv.webp",Somay Tv
 https://tv.beyondtaxconsultants.com/api/proxy?url=http://103.165.93.31:8095/somoyTv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="বাংলাদেশি" tvg-id="96" tvg-name="Independent TV" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Independent%20TV.webp",Independent TV 1
+#EXTINF:-1 group-title="বাংলাদেশি" tvg-id="96" tvg-name="Independent TV" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Independent%20TV.webp",Independent TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
-#EXTINF:-1 group-title="বাংলাদেশি" tvg-id="96" tvg-name="Independent TV" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Independent%20TV.webp",Independent TV 1
+#EXTINF:-1 group-title="বাংলাদেশি" tvg-id="96" tvg-name="Independent TV" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Independent%20TV.webp",Independent TV
 http://103.175.242.10:8080/independent/index.m3u8
 
 #EXTINF:-1 group-title="বাংলাদেশি" tvg-id="97" tvg-name="Jamuna TV" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Jamuna%20TV.webp",Jamuna TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
 
-#EXTINF:-1 group-title="বাংলাদেশি" tvg-id="102" tvg-name="Ekattor" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Ekattor%20HD.webp",Ekattor [480p]
+#EXTINF:-1 group-title="বাংলাদেশি" tvg-id="102" tvg-name="Ekattor" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Ekattor%20HD.webp",Ekattor
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/1705.m3u8
-#EXTINF:-1 group-title="বাংলাদেশি" tvg-id="102" tvg-name="Ekattor" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Ekattor%20HD.webp",Ekattor [480p]
+#EXTINF:-1 group-title="বাংলাদেশি" tvg-id="102" tvg-name="Ekattor" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Ekattor%20HD.webp",Ekattor
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 
-#EXTINF:-1 group-title="বাংলাদেশি" tvg-id="94" tvg-name="Channel 24 HD" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Channel%2024%20HD.webp",Channel 24 [480p]
+#EXTINF:-1 group-title="বাংলাদেশি" tvg-id="94" tvg-name="Channel 24 HD" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Channel%2024%20HD.webp",Channel 24
 https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/1703.m3u8
-#EXTINF:-1 group-title="বাংলাদেশি" tvg-id="94" tvg-name="Channel 24 HD" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Channel%2024%20HD.webp",Channel 24 [480p]
+#EXTINF:-1 group-title="বাংলাদেশি" tvg-id="94" tvg-name="Channel 24 HD" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Channel%2024%20HD.webp",Channel 24
 https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
 
-#EXTINF:-1 group-title="বাংলাদেশি" tvg-id="185" tvg-name="DBC News HD" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/DBC%20News%20HD.webp",DBC News [480p]
+#EXTINF:-1 group-title="বাংলাদেশি" tvg-id="185" tvg-name="DBC News HD" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/DBC%20News%20HD.webp",DBC News
 https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/1728.m3u8
-#EXTINF:-1 group-title="বাংলাদেশি" tvg-id="185" tvg-name="DBC News HD" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/DBC%20News%20HD.webp",DBC News [480p]
+#EXTINF:-1 group-title="বাংলাদেশি" tvg-id="185" tvg-name="DBC News HD" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/DBC%20News%20HD.webp",DBC News
 https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
 
-#EXTINF:-1 group-title="বাংলাদেশি" tvg-id="93" tvg-name="ATN News" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/ATN%20News.webp",ATN News [360p]
+#EXTINF:-1 group-title="বাংলাদেশি" tvg-id="93" tvg-name="ATN News" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/ATN%20News.webp",ATN News
 https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/1706.m3u8
-#EXTINF:-1 group-title="বাংলাদেশি" tvg-id="93" tvg-name="ATN News" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/ATN%20News.webp",ATN News [360p]
+#EXTINF:-1 group-title="বাংলাদেশি" tvg-id="93" tvg-name="ATN News" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/ATN%20News.webp",ATN News
 https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
 
 #EXTINF:-1 group-title="বাংলাদেশি" tvg-id="186" tvg-name="News 24 HD" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/News%2024%20HD.webp",News 24 HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
 
-#EXTINF:-1 group-title="বাংলাদেশি" tvg-id="191" tvg-name="Star News" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Star%20News.webp",Star News [240p]
+#EXTINF:-1 group-title="বাংলাদেশি" tvg-id="191" tvg-name="Star News" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Star%20News.webp",Star News
 https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/1701.m3u8
-#EXTINF:-1 group-title="বাংলাদেশি" tvg-id="191" tvg-name="Star News" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Star%20News.webp",Star News [240p]
+#EXTINF:-1 group-title="বাংলাদেশি" tvg-id="191" tvg-name="Star News" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Star%20News.webp",Star News
 https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
 
 #EXTINF:-1 group-title="বাংলাদেশি" tvg-name="Jago News 24" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Jago%20News%2024.webp",Jago News 24
@@ -327,10 +327,10 @@ http://103.175.73.12:8080/live/270/master.m3u8
 #EXTINF:-1 group-title="ইন্ডিয়ান" tvg-name="Zee Action" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Zee%20Action.webp",Zee Action
 http://103.175.73.12:8080/live/270/270_0.m3u8
 
-#EXTINF:-1 group-title="ইন্ডিয়ান" tvg-name="Goldmines Bollywood" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/big-logo.jpg",Goldmines Bollywood 1
+#EXTINF:-1 group-title="ইন্ডিয়ান" tvg-name="Goldmines Bollywood" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/big-logo.jpg",Goldmines Bollywood
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/index.m3u8
-#EXTINF:-1 group-title="ইন্ডিয়ান" tvg-name="Goldmines Bollywood" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/big-logo.jpg",Goldmines Bollywood 1
+#EXTINF:-1 group-title="ইন্ডিয়ান" tvg-name="Goldmines Bollywood" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/big-logo.jpg",Goldmines Bollywood
 http://103.175.73.12:8080/live/52/52_0.m3u8
 
 #EXTINF:-1 group-title="ইন্ডিয়ান" tvg-id="ColorsCineplex.in@SD" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Colors%20Cineplex.webp",Colors Cineplex
@@ -382,7 +382,7 @@ https://mumt04.tangotv.in/m18aqlK4MOVIEPLEX/index.m3u8
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 https://vglivessai.akamaized.net/us/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b6d9e864-ec16-410a-804d-ccf8f720bfaa/index.m3u8?hdnts=st%3D1783670657~exp%3D1783692257~acl%3D%21%2A%2Fus%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fb6d9e864-ec16-410a-804d-ccf8f720bfaa%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_172.184.174.117_yuppfast_2_channel_329_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_172.184.174.117_yuppfast_2_channel_329_-1~hmac%3D43e890102672af3378c1d3a8d048c005bc9f7be92fd9f559c32a1d709a1380b9
 
-#EXTINF:-1 group-title="ইন্ডিয়ান" tvg-id="KalaignarTV.in@SD" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Kalaignar%20TV.webp",Kalaignar TV [396p]
+#EXTINF:-1 group-title="ইন্ডিয়ান" tvg-id="KalaignarTV.in@SD" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Kalaignar%20TV.webp",Kalaignar TV
 https://segment.yuppcdn.net/240122/kalaignartv/playlist.m3u8
 
 #EXTINF:-1 group-title="ইন্ডিয়ান" tvg-id="CTVNAKDPlus.in@SD" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/CTVN%20AKD%20Plus.webp",CTVN AKD Plus
@@ -418,9 +418,9 @@ https://amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv/playlist/amg014
 #EXTINF:-1 group-title="ইন্ডিয়ান" tvg-name="Times of India" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Times%20of%20India.webp",Times of India
 https://live.sli.ke/live/npnhm84gz9/master.m3u8
 
-#EXTINF:-1 group-title="ইন্ডিয়ান" tvg-name="Zee 24 Ghanta" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Zee%2024%20Ghanta.webp",Zee 24 Ghanta [480p]
+#EXTINF:-1 group-title="ইন্ডিয়ান" tvg-name="Zee 24 Ghanta" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Zee%2024%20Ghanta.webp",Zee 24 Ghanta
 https://d2dsoyvkr33m05.cloudfront.net/index_4.m3u8
-#EXTINF:-1 group-title="ইন্ডিয়ান" tvg-name="Zee 24 Ghanta" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Zee%2024%20Ghanta.webp",Zee 24 Ghanta [480p]
+#EXTINF:-1 group-title="ইন্ডিয়ান" tvg-name="Zee 24 Ghanta" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Zee%2024%20Ghanta.webp",Zee 24 Ghanta
 https://d2dsoyvkr33m05.cloudfront.net/index_1.m3u8
 
 #EXTINF:-1 group-title="ইন্ডিয়ান" tvg-name="TV9 Bangla" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/TV9%20Bangla.webp",TV9 Bangla
@@ -538,7 +538,7 @@ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/908
 
 #EXTINF:-1 group-title="গান" tvg-name="Dhoom Music" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Dhoom%20Music.webp",Dhoom Music
 http://103.175.73.12:8080/live/378/378_0.m3u8
-#EXTINF:-1 group-title="গান" tvg-name="Dhoom Music" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Dhoom%20Music.webp",Dhoom Music 2
+#EXTINF:-1 group-title="গান" tvg-name="Dhoom Music" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Dhoom%20Music.webp",Dhoom Music
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/908667.m3u8
 
 #EXTINF:-1 group-title="গান" tvg-id="9XM.in@SD" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/9XM.webp",9XM
