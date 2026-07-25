@@ -640,6 +640,8 @@ http://103.165.93.31:8095/tsports/tracks-v1a1a2/mono.m3u8
 https://tv.beyondtaxconsultants.com/api/proxy?url=http://103.165.93.31:8095/tsports/tracks-v1a1a2/mono.m3u8
 #EXTINF:-1 group-title="খেলাধুলা" tvg-name="T SPORTS" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/T%20SPORTS.webp",T SPORTS
 http://103.165.93.31:8095/tsports/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="খেলাধুলা" tvg-name="T SPORTS" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/T%20SPORTS.webp",T SPORTS
+http://103.179.25.147:8181/TSPORTS-MADARCHOD/index.m3u8
 
 #EXTINF:-1 group-title="খেলাধুলা" tvg-name="Mahsun Sports" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Mahsun%20Sports.webp",Mahsun Sports
 https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
