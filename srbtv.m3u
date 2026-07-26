@@ -350,10 +350,10 @@ http://103.175.73.12:8080/live/270/master.m3u8
 #EXTINF:-1 group-title="ইন্ডিয়ান" tvg-name="Zee Action" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Zee%20Action.webp",Zee Action
 http://103.175.73.12:8080/live/270/270_0.m3u8
 
-#EXTINF:-1 group-title="ইন্ডিয়ান" tvg-name="Goldmines Bollywood" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/big-logo.jpg",Goldmines Bollywood
+#EXTINF:-1 group-title="ইন্ডিয়ান" tvg-name="Goldmines Bollywood" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Goldmines%20Bollywood.webp",Goldmines Bollywood
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/index.m3u8
-#EXTINF:-1 group-title="ইন্ডিয়ান" tvg-name="Goldmines Bollywood" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/big-logo.jpg",Goldmines Bollywood
+#EXTINF:-1 group-title="ইন্ডিয়ান" tvg-name="Goldmines Bollywood" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Goldmines%20Bollywood.webp",Goldmines Bollywood
 http://103.175.73.12:8080/live/52/52_0.m3u8
 
 #EXTINF:-1 group-title="ইন্ডিয়ান" tvg-id="ColorsCineplex.in@SD" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Colors%20Cineplex.webp",Colors Cineplex
