@@ -290,7 +290,7 @@ https://rs-player.netlify.app/jw-player?url=https://footfytv.pro/proxy/direct?ur
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://172.19.17.4:8090/hls/StarJalshaHD.m3u8
 #EXTINF:-1 group-title="ইন্ডিয়ান" tvg-name="STAR JALSHA" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/STAR%20JALSHA.webp",STAR JALSHA
-https://catchup.yuppcdn.net/amazonv2/36/preview/starjalsha/master/chunklist.m3u8
+#https://catchup.yuppcdn.net/amazonv2/36/preview/starjalsha/master/chunklist.m3u8
 #EXTINF:-1 group-title="ইন্ডিয়ান" tvg-name="STAR JALSHA" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/STAR%20JALSHA.webp",STAR JALSHA
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/908657.m3u8
 #EXTINF:-1 group-title="ইন্ডিয়ান" tvg-name="STAR JALSHA" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/STAR%20JALSHA.webp",STAR JALSHA
