@@ -288,10 +288,11 @@ https://footfytv.pro/proxy/direct?url=http://103.151.61.12/Star_Jalsha/tracks-v1
 #EXTINF:-1 group-title="ইন্ডিয়ান" tvg-name="STAR JALSHA" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/STAR%20JALSHA.webp",STAR JALSHA
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/908657.m3u8
 
-#EXTINF:-1 group-title="ইন্ডিয়ান" tvg-name="STAR JALSHA" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/STAR%20JALSHA.webp",STAR JALSHA
-#https://tv.shehabsarker9.workers.dev/?url=https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/908682.m3u8
-#EXTINF:-1 group-title="ইন্ডিয়ান" tvg-name="STAR JALSHA" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/STAR%20JALSHA.webp",STAR JALSHA
-#https://catchup.yuppcdn.net/amazonv2/36/preview/starjalsha/master/chunklist.m3u8
+#---বন্ধ রাখা হয়েছে---
+#EXT-X-OFF: #EXTINF:-1 group-title="ইন্ডিয়ান" tvg-name="STAR JALSHA" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/STAR%20JALSHA.webp",STAR JALSHA
+#URL-OFF: https://tv.shehabsarker9.workers.dev/?url=https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/908682.m3u8
+#EXT-X-OFF: #EXTINF:-1 group-title="ইন্ডিয়ান" tvg-name="STAR JALSHA" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/STAR%20JALSHA.webp",STAR JALSHA
+#URL-OFF: https://catchup.yuppcdn.net/amazonv2/36/preview/starjalsha/master/chunklist.m3u8
 
 
 
