@@ -29,6 +29,9 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/908678.m3u8
 
+#EXTINF:-1 group-title="বাংলাদেশি" tvg-id="134" tvg-name="Bangla TV" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Deepto TV  HD.webp",Bangla TV
+https://tvsen6.aynaott.com/39ee93nUbCCmm5LsyD4t/index.m3u8
+
 #EXTINF:-1 group-title="বাংলাদেশি" tvg-id="134" tvg-name="Thikana" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Thikana.webp",Thikana
 https://5dd3981940faa.streamlock.net:443/thikanatv/thikanatv/playlist.m3u8
 
@@ -455,6 +458,9 @@ https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiam
 
 
 --------------------------------- তথ্য -------------------------------------
+#EXTINF:-1 group-title="তথ্য" tvg-id="NationalGeographicWild.in@HD" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Discovery HD.webp",Discovery HD
+https://tvsen3.aynaott.com/Zht5VqBb/index.m3u8
+
 #EXTINF:-1 group-title="তথ্য" tvg-id="NationalGeographicWild.in@HD" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/National%20Geographic%20Wild%20HD.webp",National Geographic Wild HD
 http://217.20.112.199:8080/natgeowild/index.m3u8
 
