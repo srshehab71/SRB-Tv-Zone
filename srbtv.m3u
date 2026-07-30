@@ -18,11 +18,11 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 #EXTINF:-1 group-title="বাংলাদেশি" tvg-id="229" tvg-name="Maasranga TV" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Maasranga%20TV.webp",Maasranga TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
 
-#EXTINF:-1 group-title="বাংলাদেশি" tvg-id="134" tvg-name="Deepto TV HD" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Deepto TV  HD.webp",Deepto TV HD
+#EXTINF:-1 group-title="বাংলাদেশি" tvg-id="134" tvg-name="Deepto TV" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Deepto TV  HD.webp",Deepto TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
-#EXTINF:-1 group-title="বাংলাদেশি" tvg-id="134" tvg-name="Deepto TV HD" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Deepto TV  HD.webp",Deepto TV HD
+#EXTINF:-1 group-title="বাংলাদেশি" tvg-id="134" tvg-name="Deepto TV" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Deepto TV  HD.webp",Deepto TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
-#EXTINF:-1 group-title="বাংলাদেশি" tvg-id="134" tvg-name="Deepto TV HD" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Deepto TV  HD.webp",Deepto TV HD
+#EXTINF:-1 group-title="বাংলাদেশি" tvg-id="134" tvg-name="Deepto TV" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Deepto TV  HD.webp",Deepto TV
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/908678.m3u8
 
 #EXTINF:-1 group-title="বাংলাদেশি" tvg-id="141" tvg-name="SRK TV" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/SRK%20TV.webp",SRK TV
