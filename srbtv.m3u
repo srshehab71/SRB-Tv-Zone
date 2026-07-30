@@ -103,25 +103,19 @@ https://tvsen6.aynaott.com/N8Xbo5vdwVU6sF43RsW0/index.m3u8
 
 #EXTINF:-1 group-title="বাংলাদেশি" tvg-name="Channel S" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Channel%20S.webp",Channel S
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/live-orgin/channels.stream/playlist.m3u8
-#EXTINF:-1 group-title="বাংলাদেশি" tvg-name="Channel S" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Channel%20S.webp",Channel S
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channels.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="বাংলাদেশি" tvg-name="Ayna TV" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Ayna%20TV.webp",Ayna TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ayna.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="বাংলাদেশি" tvg-name="Gazi TV" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Gazi%20TV.webp",Gazi TV
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/live-orgin/gazibdz.stream/playlist.m3u8
-#EXTINF:-1 group-title="বাংলাদেশি" tvg-name="Gazi TV" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Gazi%20TV.webp",Gazi TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1a1/mono.m3u8
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/live-orgin/gazibdz.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="বাংলাদেশি" tvg-id="303" tvg-name="Desh TV" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Desh%20TV.webp",Desh TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/1724.m3u8
 
-#EXTINF:-1 group-title="বাংলাদেশি" tvg-name="Movie Bangla" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Movie%20Bangla.webp",Movie Bangla
-http://alvetv.com/moviebanglatv/8080/index.m3u8
-#EXTINF:-1 group-title="বাংলাদেশি" tvg-name="Movie Bangla" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Movie%20Bangla.webp",Movie Bangla
-https://tv.shehabsarker9.workers.dev/?url=http://alvetv.com/moviebanglatv/8080/index.m3u8
 #EXTINF:-1 group-title="বাংলাদেশি" tvg-name="Movie Bangla" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Movie%20Bangla.webp",Movie Bangla
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 
@@ -155,7 +149,6 @@ https://tv.beyondtaxconsultants.com/api/proxy?url=http://103.165.93.31:8095/somo
 
 #EXTINF:-1 group-title="বাংলাদেশি" tvg-id="96" tvg-name="Independent TV" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Independent%20TV.webp",Independent TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
-#EXTINF:-1 group-title="বাংলাদেশি" tvg-id="96" tvg-name="Independent TV" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Independent%20TV.webp",Independent TV
 http://103.175.242.10:8080/independent/index.m3u8
 
 #EXTINF:-1 group-title="বাংলাদেশি" tvg-id="97" tvg-name="Jamuna TV" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Jamuna%20TV.webp",Jamuna TV
@@ -168,9 +161,8 @@ https://tvsen6.aynaott.com/cdgr3tw6WoG7JyRnLbi0/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 
 #EXTINF:-1 group-title="বাংলাদেশি" tvg-id="94" tvg-name="Channel 24 HD" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Channel%2024%20HD.webp",Channel 24
-https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/1703.m3u8
-#EXTINF:-1 group-title="বাংলাদেশি" tvg-id="94" tvg-name="Channel 24 HD" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Channel%2024%20HD.webp",Channel 24
 https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
+https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/1703.m3u8
 
 #EXTINF:-1 group-title="বাংলাদেশি" tvg-id="185" tvg-name="DBC News" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/DBC%20News%20HD.webp",DBC News
 https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
@@ -183,7 +175,6 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
 
 #EXTINF:-1 group-title="বাংলাদেশি" tvg-id="191" tvg-name="Star News" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Star%20News.webp",Star News
 https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/1701.m3u8
-#EXTINF:-1 group-title="বাংলাদেশি" tvg-id="191" tvg-name="Star News" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Star%20News.webp",Star News
 https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
 
 #EXTINF:-1 group-title="বাংলাদেশি" tvg-name="Jago News 24" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Jago%20News%2024.webp",Jago News 24
@@ -209,10 +200,8 @@ https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8
 https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="ইসলামিক" tvg-name="Saudia Arabia" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Saudia%20Arabia.webp",Saudia Arabia
-https://live.kwikmotion.com/sbrksasaudiaradiolive/srpksasaudiaradio/playlist.m3u8
-
-#EXTINF:-1 group-title="ইসলামিক" tvg-name="Saudia Arabia" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Saudia%20Arabia.webp",Saudia Arabia
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624854623112e43/index.m3u8
+https://live.kwikmotion.com/sbrksasaudiaradiolive/srpksasaudiaradio/playlist.m3u8
 
 
 
@@ -260,17 +249,13 @@ https://live-bangla.akamaized.net/liveabr/playlist.m3u8
 
 #EXTINF:-1 group-title="ইন্ডিয়ান" tvg-name="ZEE BANGLA" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/ZEE%20BANGLA.webp",ZEE BANGLA
 http://172.19.17.4:8090/hls/ZeeBanglaHD.m3u8
-#EXTINF:-1 group-title="ইন্ডিয়ান" tvg-name="ZEE BANGLA" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/ZEE%20BANGLA.webp",ZEE BANGLA
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/908680.m3u8
-#EXTINF:-1 group-title="ইন্ডিয়ান" tvg-name="ZEE BANGLA" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/ZEE%20BANGLA.webp",ZEE BANGLA
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/908681.m3u8
 
 
 #EXTINF:-1 group-title="ইন্ডিয়ান" tvg-name="COLORS BANGLA" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/COLORS%20BANGLA.webp",COLORS BANGLA
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/908665.m3u8
-#EXTINF:-1 group-title="ইন্ডিয়ান" tvg-name="COLORS BANGLA" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/COLORS%20BANGLA.webp",COLORS BANGLA
 https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
-#EXTINF:-1 group-title="ইন্ডিয়ান" tvg-name="COLORS BANGLA" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/COLORS%20BANGLA.webp",COLORS BANGLA
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/908654.m3u8
 
 #EXTINF:-1 group-title="ইন্ডিয়ান" tvg-id="RupasiBangla.in@SD" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Rupasi%20Bangla.webp",Rupasi Bangla
@@ -282,14 +267,9 @@ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/908
 
 #EXTINF:-1 group-title="ইন্ডিয়ান" tvg-name="STAR JALSHA" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/STAR%20JALSHA.webp",STAR JALSHA
 https://footfytv.pro/proxy/direct?url=http://103.151.61.12/Star_Jalsha/tracks-v1a1/mono.m3u8?token=i7bZaZWaFrSIE0
-#EXTINF:-1 group-title="ইন্ডিয়ান" tvg-name="STAR JALSHA" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/STAR%20JALSHA.webp",STAR JALSHA
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/908657.m3u8
-
-#---বন্ধ রাখা হয়েছে---
-#EXT-X-OFF: #EXTINF:-1 group-title="ইন্ডিয়ান" tvg-name="STAR JALSHA" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/STAR%20JALSHA.webp",STAR JALSHA
-#URL-OFF: https://tv.shehabsarker9.workers.dev/?url=https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/908682.m3u8
-#EXT-X-OFF: #EXTINF:-1 group-title="ইন্ডিয়ান" tvg-name="STAR JALSHA" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/STAR%20JALSHA.webp",STAR JALSHA
-#URL-OFF: https://catchup.yuppcdn.net/amazonv2/36/preview/starjalsha/master/chunklist.m3u8
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/908682.m3u8
+https://catchup.yuppcdn.net/amazonv2/36/preview/starjalsha/master/chunklist.m3u8
 
 
 
@@ -305,7 +285,6 @@ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/908
 #EXTINF:-1 group-title="ইন্ডিয়ান" tvg-id="DANGAL2" tvg-name="DANGAL2" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/DANGAL2.webp",DANGAL2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
-#EXTINF:-1 group-title="ইন্ডিয়ান" tvg-id="DANGAL2" tvg-name="DANGAL2" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/DANGAL2.webp",DANGAL2
 http://103.213.31.109:90/Dangal2/playlist.m3u8
 
 #EXTINF:-1 group-title="ইন্ডিয়ান" tvg-id="DangalTV.in@SD" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Dangal%20TV.webp",Dangal TV
@@ -320,9 +299,7 @@ http://172.19.17.4:8090/hls/StarPlusHD.m3u8
 --------------------------------- ইন্ডিয়ান - মুভি চ্যানেল  -------------------------------------
 #EXTINF:-1 group-title="ইন্ডিয়ান" tvg-name="JALSHA MOVIES" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/JALSHA%20MOVIES.webp",JALSHA MOVIES
 http://172.19.17.4:8090/hls/JalshaMoviesHD.m3u8
-#EXTINF:-1 group-title="ইন্ডিয়ান" tvg-name="JALSHA MOVIES" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/JALSHA%20MOVIES.webp",JALSHA MOVIES
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/908675.m3u8
-#EXTINF:-1 group-title="ইন্ডিয়ান" tvg-name="JALSHA MOVIES" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/JALSHA%20MOVIES.webp",JALSHA MOVIES
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/908656.m3u8
 
 #EXTINF:-1 group-title="ইন্ডিয়ান" tvg-name="Colors Bangla Cinema" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Colors%20Bangla%20Cinema.webp",Colors Bangla Cinema 
@@ -333,7 +310,7 @@ https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 
 #EXTINF:-1 group-title="ইন্ডিয়ান" tvg-id="ZeeBanglaSonar.in@SD" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Zee%20Bangla%20Sonar.webp",Zee Bangla Sonar
 https://stream.ottplus.live/live/zee_bangla_cinema_abr/live/zee_bangla_cinema_720/chunks.m3u8
-#EXTINF:-1 group-title="ইন্ডিয়ান" tvg-id="ZeeBanglaSonar.in@SD" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Zee%20Bangla%20Sonar.webp",Zee Bangla Sonar
+#EXTINF:-1 group-title="ইন্ডিয়ান" tvg-id="ZeeBanglaSonar.in@SD" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Zee%20Bangla%20Sonar.webp",Zee Bangla Sonar 2
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
 
 #EXTINF:-1 group-title="ইন্ডিয়ান" tvg-id="ZBCinema.in@HD" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/ZB%20Cinema.webp",ZB Cinema
@@ -348,7 +325,6 @@ http://172.19.17.4:8090/hls/sonymaxhd.m3u8
 #EXTINF:-1 group-title="ইন্ডিয়ান" tvg-name="Zee Action" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Zee%20Action.webp",Zee Action
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://103.175.73.12:8080/live/270/master.m3u8
-#EXTINF:-1 group-title="ইন্ডিয়ান" tvg-name="Zee Action" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Zee%20Action.webp",Zee Action
 http://103.175.73.12:8080/live/270/270_0.m3u8
 
 #EXTINF:-1 group-title="ইন্ডিয়ান" tvg-name="Goldmines Bollywood" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Goldmines%20Bollywood.webp",Goldmines Bollywood
@@ -375,11 +351,9 @@ http://103.175.73.12:8080/live/345/345_0.m3u8
 https://cdn-2.pishow.tv/live/227/master.m3u8
 
 #EXTINF:-1 group-title="ইন্ডিয়ান" tvg-name="B4U Movies" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/B4U%20Movies.webp",B4U Movies
-https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/480p/index.m3u8
-#EXTINF:-1 group-title="ইন্ডিয়ান" tvg-name="B4U Movies" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/B4U%20Movies.webp",B4U Movies
-https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="ইন্ডিয়ান" tvg-name="B4U Movies" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/B4U%20Movies.webp",B4U Movies
 https://cdn-2.pishow.tv/live/419/master.m3u8
+https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/480p/index.m3u8
+https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="ইন্ডিয়ান" tvg-id="BigMagic.in@SD" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Big%20Magic.webp",Big Magic
 https://mumt05.tangotv.in/87NeALx2BIGMAGIC/index.m3u8
@@ -394,9 +368,8 @@ https://cdn-2.pishow.tv/live/1461/master.m3u8
 https://cdn-2.pishow.tv/live/1460/master.m3u8
 
 #EXTINF:-1 group-title="ইন্ডিয়ান" tvg-id="BhojpuriCinema.in@SD" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Bhojpuri%20Cinema.webp",Bhojpuri Cinema
-https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
-#EXTINF:-1 group-title="ইন্ডিয়ান" tvg-id="BhojpuriCinema.in@SD" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Bhojpuri%20Cinema.webp",Bhojpuri Cinema
 https://cdn-4.pishow.tv/live/1033/master.m3u8
+https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
 
 #EXTINF:-1 group-title="ইন্ডিয়ান" tvg-id="MoviePlex.in@SD" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/MoviePlex.webp",MoviePlex
 https://mumt04.tangotv.in/m18aqlK4MOVIEPLEX/index.m3u8
@@ -500,9 +473,9 @@ http://172.19.17.4:8090/hls/NatGeoWild.m3u8
 
 --------------------------------- কার্টুন -------------------------------------
 #EXTINF:-1 group-title="কার্টুন" tvg-name="Rongeen TV" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Rongeen%20TV.webp",Rongeen TV
+https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 https://cdn-4.pishow.tv/live/1029/master0.m3u8
 https://cdn-4.pishow.tv/live/1029/master.m3u8
-https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="কার্টুন" tvg-name="Khushboo" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Khushboo.webp",Khushboo
 https://cdn-4.pishow.tv/live/1473/master.m3u8
@@ -541,9 +514,8 @@ https://mumt05.tangotv.in/87NeALx2UNIQUETV/index.m3u8
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 
 #EXTINF:-1 group-title="কার্টুন" tvg-name="Tom & Jerry TV" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Tom%20%26%20Jerry%20TV.webp",Tom & Jerry TV
-https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
-#EXTINF:-1 group-title="কার্টুন" tvg-name="Tom & Jerry TV" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Tom%20%26%20Jerry%20TV.webp",Tom & Jerry TV
 https://live20.bozztv.com/giatvplayout7/giatv-208314/tracks-v1a1/mono.ts.m3u8
+https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 
 #EXTINF:-1 group-title="কার্টুন" tvg-name="Cartoon Network" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Cartoon%20Network%20English.webp",Cartoon Network
 https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
@@ -571,47 +543,41 @@ https://live-evg5.tv360.bitel.com.pe/bitel/fillka/playlist.m3u8
 
 --------------------------------- গান -------------------------------------
 #EXTINF:-1 group-title="গান" tvg-name="Sangeet Bangla" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Sangeet%20Bangla.webp",Sangeet Bangla
+https://cdn-4.pishow.tv/live/1143/master.m3u8
 http://172.19.17.4:8090/hls/SangeetBangla.m3u8
 https://cdn-4.pishow.tv/live/1143/1143_0.m3u8
 https://cdn-4.pishow.tv/live/1143/1143_1.m3u8
-https://cdn-4.pishow.tv/live/1143/master.m3u8
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/908672.m3u8
 
 #EXTINF:-1 group-title="গান" tvg-name="Dhoom Music" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Dhoom%20Music.webp",Dhoom Music
-http://103.175.73.12:8080/live/378/378_0.m3u8
-#EXTINF:-1 group-title="গান" tvg-name="Dhoom Music" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Dhoom%20Music.webp",Dhoom Music
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/908667.m3u8
+http://103.175.73.12:8080/live/378/378_0.m3u8
 
 #EXTINF:-1 group-title="গান" tvg-id="9XM.in@SD" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/9XM.webp",9XM
 https://mumt01.tangotv.in/O5aw8Zn39XM/index.m3u8
 
 #EXTINF:-1 group-title="গান" tvg-name="9X Tashan" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/9X%20Tashan.webp",9X Tashan
-https://wiselp.wiseplayout.com/9X_Tashan/master.m3u8
-#EXTINF:-1 group-title="গান" tvg-name="9X Tashan" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/9X%20Tashan.webp",9X Tashan
 https://mumt01.tangotv.in/O5aw8Zn39XTASHAN/index.m3u8
+https://wiselp.wiseplayout.com/9X_Tashan/master.m3u8
 
 #EXTINF:-1 group-title="গান" tvg-name="9X Jalwa" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/9X%20Jalwa.webp",9X Jalwa
-https://wiselp.wiseplayout.com/9X_Jalwa/HD720/HD720.m3u8
 #https://wiselp.wiseplayout.com/9X_Jalwa/master.m3u8
-#EXTINF:-1 group-title="গান" tvg-name="9X Jalwa" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/9X%20Jalwa.webp",9X Jalwa
+https://wiselp.wiseplayout.com/9X_Jalwa/HD720/HD720.m3u8
 https://mumt03.tangotv.in/Dsly5z3H9XJALWA/index.m3u8
-#EXTINF:-1 group-title="গান" tvg-name="9X Jalwa" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/9X%20Jalwa.webp",9X Jalwa
 https://wiselp.wiseplayout.com/9X_Jalwa/master.m3u8
 
 #EXTINF:-1 group-title="গান" tvg-name="9X Jhakaas" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/9X%20Jhakaas.webp",9X Jhakaas
 https://wiselp.wiseplayout.com/9X_Jhakaas/master.m3u8
 
 #EXTINF:-1 group-title="গান" tvg-name="YRF Music HD" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/YRF%20Music%20HD.webp",YRF Music HD
-https://amg01412-xiaomiasia-yrfmusic-xiaomi-1rmk2.amagi.tv/ts-eu-w1-n2/playlist/amg01412-xiaomiasia-yrfmusic-xiaomi/cb573d1e786c678f9bd43d6fcef04382847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258a9734cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7a9b30846d13df5e0014a957e14fa83439fd501b385865883438422a716c895f2dad1148be4ef598d6f77a02022405fbdc213b1c853b1d69b6d3c8f795a297437c790e335caa1e43d277debf6cac505b5739cc84d290146e935c8054de3dd4bd31b4d0fca325a8dff082b18b7cd5a2e03a8e4ab8bc1f852d769d6adf3d47f7098b94136178925ef2b253c9fead854aaf755c7e66dd5ef292a31cec711c0ddaad5bbf9cd6b8c35c6c2c39d3f6947774b57d50aecc93b9b61f6509ce33f6d1c414da69f15e383da553f2b0fa5884cdb1e1ef68adfd6915e759a2e4b1adb61df5a176583613f2bab7eafe84906e311038b3132ec4b75d1128edf02c1e78ab5486bcf9dad24d860e0b206d78c728a652e560fb6b2611f724573d4e1711e721ee740f7d8deee670363bda39a1ea19bfcbb9471df2d11bc632dc24e2570a8eeb9ce62ec/147/854x480_1724104/index.m3u8
-#EXTINF:-1 group-title="গান" tvg-name="YRF Music HD" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/YRF%20Music%20HD.webp",YRF Music HD
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
+https://amg01412-xiaomiasia-yrfmusic-xiaomi-1rmk2.amagi.tv/ts-eu-w1-n2/playlist/amg01412-xiaomiasia-yrfmusic-xiaomi/cb573d1e786c678f9bd43d6fcef04382847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258a9734cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7a9b30846d13df5e0014a957e14fa83439fd501b385865883438422a716c895f2dad1148be4ef598d6f77a02022405fbdc213b1c853b1d69b6d3c8f795a297437c790e335caa1e43d277debf6cac505b5739cc84d290146e935c8054de3dd4bd31b4d0fca325a8dff082b18b7cd5a2e03a8e4ab8bc1f852d769d6adf3d47f7098b94136178925ef2b253c9fead854aaf755c7e66dd5ef292a31cec711c0ddaad5bbf9cd6b8c35c6c2c39d3f6947774b57d50aecc93b9b61f6509ce33f6d1c414da69f15e383da553f2b0fa5884cdb1e1ef68adfd6915e759a2e4b1adb61df5a176583613f2bab7eafe84906e311038b3132ec4b75d1128edf02c1e78ab5486bcf9dad24d860e0b206d78c728a652e560fb6b2611f724573d4e1711e721ee740f7d8deee670363bda39a1ea19bfcbb9471df2d11bc632dc24e2570a8eeb9ce62ec/147/854x480_1724104/index.m3u8
 
 #EXTINF:-1 group-title="গান" tvg-name="Music Mastii" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Music%20Mastii.webp",Music Mastii
 https://live20.bozztv.com/giatvplayout7/giatv-209592/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="গান" tvg-name="Music India" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Music%20India.webp",Music India
 https://cdn-2.pishow.tv/live/226/master.m3u8
-#EXTINF:-1 group-title="গান" tvg-name="Music India" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Music%20India.webp",Music India
 http://103.175.73.12:8080/live/158/158_0.m3u8
 
 #EXTINF:-1 group-title="গান" tvg-name="B4U Music" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/B4U%20Music.webp",B4U Music
@@ -627,14 +593,12 @@ http://103.175.73.12:8080/live/159/159_0.m3u8
 https://livestream.unlimitedcdn.com/agm-dc/desi-channel/index.m3u8
 
 #EXTINF:-1 group-title="গান" tvg-id="PTCMusic.in@SD" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/PTC%20Music.webp",PTC Music
-https://cdn-3.pishow.tv/live/1501/master.m3u8
-#EXTINF:-1 group-title="গান" tvg-id="PTCMusic.in@SD" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/PTC%20Music.webp",PTC Music
 https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/index.m3u8
+https://cdn-3.pishow.tv/live/1501/master.m3u8
 
 #EXTINF:-1 group-title="গান" tvg-name="Baallee" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Baallee.webp",Baallee
-https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="গান" tvg-name="Baallee" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Baallee.webp",Baallee
 https://mcncdndigital.com/balleballetv/index.m3u8
+https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="গান" tvg-id="192" tvg-chno="69" tvg-name="Haryanvi Hits" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Haryanvi%20Hits.webp",Haryanvi Hits
 #KODIPROP:inputstream=inputstream.adaptive
@@ -781,11 +745,10 @@ https://tv.beyondtaxconsultants.com/api/proxy?url=http://103.165.93.31:8095/unt-
 http://172.19.17.4:8090/hls/ptvsportshd.m3u8
 
 #EXTINF:-1 group-title="খেলাধুলা" tvg-name="PTV Sports" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/PTV%20Sports.webp",PTV Sports
-http://103.165.93.31:8095/ptv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="খেলাধুলা" tvg-name="PTV Sports" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/PTV%20Sports.webp",PTV Sports
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+http://103.165.93.31:8095/ptv/tracks-v1a1/mono.m3u8
 https://tv.beyondtaxconsultants.com/api/proxy?url=http://103.165.93.31:8095/Fifa-1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="খেলাধুলা" tvg-name="Bein Sports 1" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Bein%20Sports%20Direct.webp",Bein Sports 1
