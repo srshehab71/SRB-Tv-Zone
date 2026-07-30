@@ -252,13 +252,13 @@ http://172.19.17.4:8090/hls/SonyHD.m3u8
 
 
 --------------------------------- ইন্ডিয়ান - নাটক চ্যানেল  -------------------------------------
-#EXTINF:-1 group-title="ইন্ডিয়ান" tvg-name="ENTER 10 BANGLA" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/ENTER10%20BANGLA.webp",ENTER10 BANGLA
+#EXTINF:-1 group-title="ইন্ডিয়ান" tvg-name="ENTER 10 BANGLA" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/ENTER10%20BANGLA.webp",ENTER 10 BANGLA
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
-#EXTINF:-1 group-title="ইন্ডিয়ান" tvg-name="ENTER 10 BANGLA" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/ENTER10%20BANGLA.webp",ENTER10 BANGLA
+#EXTINF:-1 group-title="ইন্ডিয়ান" tvg-name="ENTER 10 BANGLA" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/ENTER10%20BANGLA.webp",ENTER 10 BANGLA
 https://cdn-4.pishow.tv/live/241/master.m3u8
-#EXTINF:-1 group-title="ইন্ডিয়ান" tvg-name="ENTER 10 BANGLA" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/ENTER10%20BANGLA.webp",ENTER10 BANGLA
+#EXTINF:-1 group-title="ইন্ডিয়ান" tvg-name="ENTER 10 BANGLA" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/ENTER10%20BANGLA.webp",ENTER 10 BANGLA
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/908687.m3u8
-#EXTINF:-1 group-title="ইন্ডিয়ান" tvg-name="ENTER 10 BANGLA" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/ENTER10%20BANGLA.webp",ENTER10 BANGLA
+#EXTINF:-1 group-title="ইন্ডিয়ান" tvg-name="ENTER 10 BANGLA" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/ENTER10%20BANGLA.webp",ENTER 10 BANGLA
 https://live-bangla.akamaized.net/liveabr/playlist.m3u8
 
 #EXTINF:-1 group-title="ইন্ডিয়ান" tvg-name="ZEE BANGLA" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/ZEE%20BANGLA.webp",ZEE BANGLA
