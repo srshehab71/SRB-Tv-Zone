@@ -682,7 +682,7 @@ https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
 #EXTINF:-1 group-title="খেলাধুলা" tvg-name="United Sports" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/United%20Sports.webp",United Sports
 https://tv.beyondtaxconsultants.com/api/proxy?url=http://103.165.93.31:8095/unt-s/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="খেলাধুলা" tvg-name="PTV News" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/PTV%20Sports.webp",PTV News
+#EXTINF:-1 group-title="খেলাধুলা" tvg-name="PTV News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bb/PTV_News_Logo.png",PTV News
 http://172.19.17.4:8090/hls/ptvsportshd.m3u8
 
 #EXTINF:-1 group-title="খেলাধুলা" tvg-name="PTV Sports" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/PTV%20Sports.webp",PTV Sports
