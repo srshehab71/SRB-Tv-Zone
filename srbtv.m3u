@@ -10,7 +10,7 @@ http://103.165.93.31:8095/btv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="বাংলাদেশি" tvg-name="BTV" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/BTV.webp",BTV World
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 
-#EXTINF:-1 group-title="বাংলাদেশি" tvg-name="BTV News" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/BTV News.webp",BTV News
+#EXTINF:-1 group-title="বাংলাদেশি" tvg-name="BTV News" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_1b90aebe217ac437da23625feaba0b76_playmist_btv_news400x400.jpg?w=640&q=75",BTV News
 https://tvsen6.aynaott.com/tV8mB2zP7rX4kL1w/index.m3u8
 
 #EXTINF:-1 group-title="বাংলাদেশি" tvg-name="BTV" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/BTV.webp",BTV CTG
@@ -29,7 +29,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/908678.m3u8
 
-#EXTINF:-1 group-title="বাংলাদেশি" tvg-id="134" tvg-name="Bangla TV" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Deepto TV  HD.webp",Bangla TV
+#EXTINF:-1 group-title="বাংলাদেশি" tvg-id="134" tvg-name="Bangla TV" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_8fd7517559098b744a0595d094228d8d_playmist_bangla_tv_400x400.jpg?w=640&q=75",Bangla TV
 https://tvsen6.aynaott.com/39ee93nUbCCmm5LsyD4t/index.m3u8
 
 #EXTINF:-1 group-title="বাংলাদেশি" tvg-id="134" tvg-name="Thikana" tvg-logo="https://yt3.googleusercontent.com/AbXfwy0BwAB4yjwV4gkMmSZizuTv30M9kZjO7V33LLvpy7CRVxK523zdvnZ3oTMtanUf9tHe=s900-c-k-c0x00ffffff-no-rj",Thikana
@@ -88,10 +88,10 @@ https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 #EXTINF:-1 group-title="বাংলাদেশি" tvg-name="Boishakhi TV" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Boishakhi%20TV.webp",Boishakhi TV
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 
-#EXTINF:-1 group-title="বাংলাদেশি" tvg-name="SA TV" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/SA TV.webp",SA TV
+#EXTINF:-1 group-title="বাংলাদেশি" tvg-name="SA TV" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_b6f2363fef23e117f9a13b7c185ce26c_playmist_satv.png?w=640&q=75",SA TV
 https://tvsen6.aynaott.com/rELXiuUXqbgzPb06Npom/index.m3u8
 
-#EXTINF:-1 group-title="বাংলাদেশি" tvg-name="Duronto TV" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/SA TV.webp",Duronto TV
+#EXTINF:-1 group-title="বাংলাদেশি" tvg-name="Duronto TV" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_608bd1c995275bd65872dae5b2be9ba0_playmist_duronto_tv_400x400.jpg?w=640&q=75",Duronto TV
 https://tvsen6.aynaott.com/6xyZ3N4oHv2KBJdB6W4p/index.m3u8
 
 #EXTINF:-1 group-title="বাংলাদেশি" tvg-name="ATN BANGLA" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/ATN BANGLA.webp",ATN BANGLA
@@ -103,7 +103,7 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 #EXTINF:-1 group-title="বাংলাদেশি" tvg-name="Mohona Tv" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Mohona%20Tv.webp",Mohona Tv
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mohonatv.stream/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="বাংলাদেশি" tvg-name="Bijoy TV" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Mohona%20Tv.webp",Bijoy TV
+#EXTINF:-1 group-title="বাংলাদেশি" tvg-name="Bijoy TV" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_82c9c8c5aa07c6b94a62cf2ffbe21375_playmist_bijoy_tv_400x400.jpg?w=640&q=75",Bijoy TV
 https://tvsen6.aynaott.com/N8Xbo5vdwVU6sF43RsW0/index.m3u8
 
 #EXTINF:-1 group-title="বাংলাদেশি" tvg-name="Channel S" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Channel%20S.webp",Channel S
@@ -159,9 +159,6 @@ http://103.175.242.10:8080/independent/index.m3u8
 #EXTINF:-1 group-title="বাংলাদেশি" tvg-id="97" tvg-name="Jamuna TV" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Jamuna%20TV.webp",Jamuna TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
 
-#EXTINF:-1 group-title="বাংলাদেশি" tvg-id="97" tvg-name="News 24 BD" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/News 24 BD.webp",News 24 BD
-https://tvsen6.aynaott.com/cdgr3tw6WoG7JyRnLbi0/index.m3u8
-
 #EXTINF:-1 group-title="বাংলাদেশি" tvg-id="102" tvg-name="Ekattor TV" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Ekattor%20HD.webp",Ekattor TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 
@@ -175,7 +172,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
 #EXTINF:-1 group-title="বাংলাদেশি" tvg-id="93" tvg-name="ATN News" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/ATN%20News.webp",ATN News
 https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
 
-#EXTINF:-1 group-title="বাংলাদেশি" tvg-id="186" tvg-name="News 24 HD" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/News%2024%20HD.webp",News 24 HD
+#EXTINF:-1 group-title="বাংলাদেশি" tvg-id="186" tvg-name="News 24 BD" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/News%2024%20HD.webp",News 24 BD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
 
 #EXTINF:-1 group-title="বাংলাদেশি" tvg-id="191" tvg-name="Star News" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Star%20News.webp",Star News
@@ -421,7 +418,7 @@ https://amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv/playlist/amg014
 #EXTINF:-1 group-title="ইন্ডিয়ান" tvg-name="Times of India" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Times%20of%20India.webp",Times of India
 https://live.sli.ke/live/npnhm84gz9/master.m3u8
 
-#EXTINF:-1 group-title="ইন্ডিয়ান" tvg-name="Republic Bangla" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Republic Bangla.webp",Republic Bangla
+#EXTINF:-1 group-title="ইন্ডিয়ান" tvg-name="Republic Bangla" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-13/images_45a1af747f3728954d1e83ab457d8e53_playmist_republic_bangla_400x400.jpg?w=640&q=75",Republic Bangla
 https://tvsen5.aynaott.com/qRHda6ax/index.m3u8
 
 #EXTINF:-1 group-title="ইন্ডিয়ান" tvg-name="Zee 24 Ghanta" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Zee%2024%20Ghanta.webp",Zee 24 Ghanta
@@ -434,10 +431,10 @@ https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
 #EXTINF:-1 group-title="ইন্ডিয়ান" tvg-id="indiatoday.in" tvg-name="India Today" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/India%20Today.webp",India Today
 https://d2lk5u59tns74c.cloudfront.net/out/v1/d4435039c7d1433d9b9d0b6cdc9dd4ff/index.m3u8
 
-#EXTINF:-1 group-title="ইন্ডিয়ান" tvg-id="indiatoday.in" tvg-name="Republic TV Bharat" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Republic TV Bharat.webp",Republic TV Bharat
+#EXTINF:-1 group-title="ইন্ডিয়ান" tvg-id="indiatoday.in" tvg-name="Republic TV Bharat" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_c126a1f2ceda33dad15b71f1d3210b44_playmist_republic_tv_bharat_400x400.jpg?w=640&q=75",Republic TV Bharat
 https://tvsen6.aynaott.com/faGd3tuq/index.m3u8
 
-#EXTINF:-1 group-title="ইন্ডিয়ান" tvg-id="indiatoday.in" tvg-name="Bharat Samachar" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Bharat Samachar.webp",Bharat Samachar
+#EXTINF:-1 group-title="ইন্ডিয়ান" tvg-id="indiatoday.in" tvg-name="Bharat Samachar" tvg-logo="https://play-lh.googleusercontent.com/DBRs-tBGa9sxWCT2LJDA3QqH76tBxSXQ5jzEFz1ULdnHfGVvSsvjrWhJD-B0_FJcOXKU4Fmxz8wBLdWkqck3K3Y",Bharat Samachar
 https://tvsen3.aynaott.com/m94BZDYb/index.m3u8
 
 #EXTINF:-1 group-title="ইন্ডিয়ান" tvg-id="IndiaTV.in" tvg-name="India TV" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/India%20TV.webp",India TV
@@ -460,7 +457,7 @@ https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiam
 
 
 --------------------------------- তথ্য -------------------------------------
-#EXTINF:-1 group-title="তথ্য" tvg-id="NationalGeographicWild.in@HD" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Discovery HD.webp",Discovery HD
+#EXTINF:-1 group-title="তথ্য" tvg-id="NationalGeographicWild.in@HD" tvg-logo="https://images.seeklogo.com/logo-png/26/1/discovery-channel-logo-png_seeklogo-268048.png",Discovery HD
 https://tvsen3.aynaott.com/Zht5VqBb/index.m3u8
 
 #EXTINF:-1 group-title="তথ্য" tvg-id="NationalGeographicWild.in@HD" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/National%20Geographic%20Wild%20HD.webp",National Geographic Wild HD
@@ -506,7 +503,7 @@ https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ec031d1f-2217-4dd0-9c8a-ca8f00a8c31f/playlist.m3u8?hdnts=st%3D1783670635~exp%3D1783692235~acl%3D%21%2A%2Fsg%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fec031d1f-2217-4dd0-9c8a-ca8f00a8c31f%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_172.184.174.117_yuppfast_2_channel_323_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_172.184.174.117_yuppfast_2_channel_323_-1~hmac%3Dc4a0d1de6c68a0343ae7b750822b2667c7328bb424714048bc14346f5aa80e09
 
-#EXTINF:-1 group-title="কার্টুন" tvg-name="Nickjr" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Nickjr.webp",Nickjr
+#EXTINF:-1 group-title="কার্টুন" tvg-name="Nickjr" tvg-logo="https://www.citypng.com/public/uploads/preview/hd-disney-junior-logo-transparent-png-701751694774905qihesgpohf.png",Nickjr
 https://tvsen3.aynaott.com/LqCU7kXU/index.m3u8
 
 #EXTINF:-1 group-title="কার্টুন" tvg-name="Disney Junior" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Disney Junior.webp",Disney Junior
@@ -635,20 +632,6 @@ https://yuppnimrestreammum.akamaized.net/181224/smil:bogglebollywood.smil/playli
 
 --------------------------------- ইংরেজি -------------------------------------
 --------------------------------- ইংরেজি মুভি চ্যানেল -------------------------------------
-#EXTINF:-1 group-title="ইংরেজি" tvg-name="Accu Weather" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Accu Weather.webp",Accu Weather
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8
-
-#EXTINF:-1 group-title="ইংরেজি" tvg-name="Fox Weather" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Fox Weather.webp",Fox Weather
-https://247wlive.foxweather.com/stream/index.m3u8
-
-#EXTINF:-1 group-title="ইংরেজি" tvg-name="Sky News Weather" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Sky News Weather.webp",Sky News Weather
-https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8
-
-#EXTINF:-1 group-title="ইংরেজি" tvg-name="Weather SPY" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Weather SPY.webp",Weather SPY
-https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8
-
-
---------------------------------- ইংরেজি মুভি চ্যানেল -------------------------------------
 
 #EXTINF:-1 group-title="ইংরেজি" tvg-name="STAR MOVIES HD" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/STAR%20MOVIES%20HD.webp",STAR MOVIES HD
 http://172.19.17.4:8090/hls/StarMoviesHD.m3u8
@@ -659,16 +642,8 @@ http://103.213.31.111/HBOHD/index.m3u8
 #EXTINF:-1 group-title="ইংরেজি" tvg-name="HBO 2" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/HBO.webp",HBO 2
 https://tvsen3.aynaott.com/u3NjUrny/index.m3u8
 
-#EXTINF:-1 group-title="ইংরেজি" tvg-name="MTV" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/MTV.webp",MTV
+#EXTINF:-1 group-title="ইংরেজি" tvg-name="MTV" tvg-logo="https://logos-world.net/wp-content/uploads/2020/10/MTV-Logo.png",MTV
 https://tvsen6.aynaott.com/mtv/index.m3u8
-
-#EXTINF:-1 group-title="ইংরেজি" tvg-name="Fox 5" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Fox 5.webp",Fox 5
-https://tvsen6.aynaott.com/fox5/index.m3u8
-
-#EXTINF:-1 group-title="ইংরেজি" tvg-name="WEATHER CHANNEL" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/WEATHER CHANNEL.webp",WEATHER CHANNEL
-https://tvsen3.aynaott.com/uqXdx9CE/index.m3u8
-
-
 
 
 
@@ -676,56 +651,14 @@ https://tvsen3.aynaott.com/uqXdx9CE/index.m3u8
 #EXTINF:-1 group-title="ইংরেজি" tvg-id="85" tvg-name="Aljazeera News" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Al%20Jazeera.webp",Aljazeera News
 https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
 
-#EXTINF:-1 group-title="ইংরেজি" tvg-id="85" tvg-name="BBC News" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/BBC News.webp",BBC News
+#EXTINF:-1 group-title="ইংরেজি" tvg-id="85" tvg-name="BBC News" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_bea6d56aa19a59e2bc272736880a97f3_playmist_bbc_news_400x400.jpg?w=640&q=75",BBC News
 https://tvsen1.aynaott.com/shn6jGTk/index.m3u8
 
-#EXTINF:-1 group-title="ইংরেজি" tvg-id="85" tvg-name="DW News" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/DW News.webp",DW News
+#EXTINF:-1 group-title="ইংরেজি" tvg-id="85" tvg-name="DW News" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_e9cbcb0f33668b33e4b5dd06143aa1c6_playmist_dw400x400.jpg?w=640&q=75",DW News
 https://tvsen6.aynaott.com/Qq3s5WR2/index.m3u8
 
-#EXTINF:-1 group-title="ইংরেজি" tvg-id="85" tvg-name="CNN" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/CNN.webp",CNN
+#EXTINF:-1 group-title="ইংরেজি" tvg-id="85" tvg-name="CNN" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_3ce5ce236141274767c8ee8148b88a5d_playmist_cnn_400x400.jpg?w=640&q=75",CNN
 https://tvsen6.aynaott.com/cnn/index.m3u8
-
-#EXTINF:-1 group-title="ইংরেজি" tvg-id="85" tvg-name="Bloomberg TV" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Bloomberg TV.webp",Bloomberg TV
-https://tvsen6.aynaott.com/bloombergtv/index.m3u8
-
-#EXTINF:-1 group-title="ইংরেজি" tvg-id="85" tvg-name="ABC News" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/ABC News.webp",ABC News
-https://tvsen6.aynaott.com/ABCxzdsdNews/index.m3u8
-
-#EXTINF:-1 group-title="ইংরেজি" tvg-id="85" tvg-name="CNBC TV" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/CNBC TV.webp",CNBC TV
-https://tvsen6.aynaott.com/cnbc/index.m3u8
-
-#EXTINF:-1 group-title="ইংরেজি" tvg-id="85" tvg-name="CP 24" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/CP 24.webp",CP 24
-https://tvsen6.aynaott.com/cp24/index.m3u8
-
-#EXTINF:-1 group-title="ইংরেজি" tvg-id="85" tvg-name="Fox News" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Fox News.webp",Fox News
-https://tvsen6.aynaott.com/foxnews/index.m3u8
-
-#EXTINF:-1 group-title="ইংরেজি" tvg-id="85" tvg-name="Sky News" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Sky News.webp",Sky News
-https://tvsen5.aynaott.com/skynews/index.m3u8
-
-#EXTINF:-1 group-title="ইংরেজি" tvg-id="85" tvg-name="ABN" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/ABN.webp",ABN
-https://mediaserver.abnvideos.com/streams/abnurdu.m3u8
-
-#EXTINF:-1 group-title="ইংরেজি" tvg-id="85" tvg-name="Fox business" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Fox business.webp",Fox business
-https://tvsen6.aynaott.com/foxbusiness/index.m3u8
-
-#EXTINF:-1 group-title="ইংরেজি" tvg-id="85" tvg-name="CBS TV" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/CBS TV.webp",CBS TV
-https://tvsen3.aynaott.com/34fJSjZP/index.m3u8
-
-#EXTINF:-1 group-title="ইংরেজি" tvg-id="85" tvg-name="   	 USA TV" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/CBS TV.webp",   	 USA TV
-https://tvsen3.aynaott.com/dbbcY6NG/index.m3u8
-
-#EXTINF:-1 group-title="ইংরেজি" tvg-id="85" tvg-name="FX TV" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/FX TV.webp",   	 FX TV
-https://tvsen3.aynaott.com/jTqkTE8W/index.m3u8
-
-#EXTINF:-1 group-title="ইংরেজি" tvg-id="85" tvg-name="Wion" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Wion.webp",Wion
-https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
-
-
-
-
-
-
 
 
 
@@ -762,20 +695,11 @@ https://tv.beyondtaxconsultants.com/api/proxy?url=http://103.165.93.31:8095/Fifa
 #EXTINF:-1 group-title="খেলাধুলা" tvg-name="Bein Sports 1" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Bein%20Sports%20Direct.webp",Bein Sports 1
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 
-#EXTINF:-1 group-title="খেলাধুলা" tvg-name="NFL Network" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/NFL Network.webp",NFL Network
-https://tvsen6.aynaott.com/nfl/index.m3u8
-
-#EXTINF:-1 group-title="খেলাধুলা" tvg-name="Bleav Football" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Bleav Football.webp",Bleav Football
-https://linear-493.frequency.stream/dist/glewedtv/493/hls/master/playlist.m3u8
-
 #EXTINF:-1 group-title="খেলাধুলা" tvg-name="Sky Sports" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Sky%20Sports.webp",Sky Sports
 https://atc.hopto.org/sly-sprts-cricket-hd-sport/playlist.m3u8
 
-#EXTINF:-1 group-title="খেলাধুলা" tvg-name="Cricket Gold" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/A%20SPOR.webp",Cricket Gold
+#EXTINF:-1 group-title="খেলাধুলা" tvg-name="Cricket Gold" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzFwZONpozSfCre5CHYIqSaA9wwL9sbRxI4xo0M55Xp1jZjxwPHJbKg0CO&s=10",Cricket Gold
 https://tvsen6.aynaott.com/M2W2UR49dmeKbZnmdRzN/index.m3u8
-
-#EXTINF:-1 group-title="খেলাধুলা" tvg-name="TNT Sport 1" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/A%20SPOR.webp",CriTNT Sport 1
-https://tvsen3.aynaott.com/4T5fe4Sc/index.m3u8
 
 #EXTINF:-1 group-title="খেলাধুলা" tvg-name="A SPOR" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/A%20SPOR.webp",A SPOR
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_480p.m3u8
@@ -794,9 +718,6 @@ https://f7ccf7fc.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 
 #EXTINF:-1 group-title="খেলাধুলা" tvg-name="NBC Sports" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/NBC%20Sports.webp",NBC Sports
 https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
-
-#EXTINF:-1 group-title="খেলাধুলা" tvg-name="Talk Sport" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Talk Sport.webp",Talk Sport
-https://tvsen6.aynaott.com/talkSPORT/index.m3u8
 
 #EXTINF:-1 group-title="খেলাধুলা" tvg-name="Win Sports" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Win%20Sports.webp",Win Sports
 https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
