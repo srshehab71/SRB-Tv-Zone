@@ -627,9 +627,10 @@ https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiam
 
 
 --------------------------------- তথ্য -------------------------------------
-#EXTINF:-1 group-title="তথ্য" tvg-id="NationalGeographicWild.in@HD" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Discovery HD.webp",Discovery HD
-https://biostartvworld.pages.dev/api/key/aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tL2Nkbi9saXZlL2Rpc2NvdmVyeV9zZC8uLi9zbGFuZy9kaXNjb3Zlcnlfc2RfNTc2L2Rpc2NvdmVyeV9zZF81NzYubTN1OD9iaXRyYXRlPTEwMDAwMDAmY2hhbm5lbD1kaXNjb3Zlcnlfc2RfNTc2JmdwX2lkPXx8fFRvZmZlZSAoTGludXg7QW5kcm9pZCAxNCl8fHx7ImNvb2tpZSI6IkVkZ2UtQ2FjaGUtQ29va2llPVVSTFByZWZpeD1hSFIwY0hNNkx5OWliR1JqYlhCeWIyUXRZMlJ1TG5SdlptWmxaV3hwZG1VdVkyOXQ6RXhwaXJlcz0xNzg2MDUzOTA2OktleU5hbWU9cHJvZF9saW5lYXI6U2lnbmF0dXJlPXBrNjF3c04xM19EeHVXaUhkdUFaSEdLR19fWGhDT3M5SmwxSERibGRGb0FpMFI4RmcyUEp5XzRERXpTRFJ1ajc4bG1HcUx4aHFYZm82cWRBU3MwQkN3In0/discovery_sd_576.m3u8
+#EXTINF:-1 group-title="তথ্য" tvg-id="discovery" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Discovery HD.webp",Discovery HD
+http://103.165.93.31:8095/discovery/index.m3u8
 https://tvsen3.aynaott.com/Zht5VqBb/index.m3u8
+
 
 
 #EXTINF:-1 group-title="তথ্য" tvg-id="NationalGeographicWild.in@HD" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/National%20Geographic%20Wild%20HD.webp",National Geographic Wild HD
