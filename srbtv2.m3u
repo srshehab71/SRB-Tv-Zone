@@ -499,8 +499,8 @@ https://d2dsoyvkr33m05.cloudfront.net/index_1.m3u8
 
 
 --------------------------------- তথ্য -------------------------------------
-#EXTINF:-1 group-title="তথ্য" tvg-id="Discovery HD" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Discovery HD.webp",Discovery HD
-http://103.165.93.31:8095/discovery/index.m3u8
+##EXTINF:-1 group-title="তথ্য" tvg-id="Discovery HD" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Discovery HD.webp",Discovery HD
+
 
 ##EXTINF:-1 group-title="তথ্য" tvg-id="NationalGeographicWild.in@HD" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/National%20Geographic%20Wild%20HD.webp",National Geographic Wild HD
 
