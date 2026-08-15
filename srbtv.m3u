@@ -4,19 +4,19 @@
 
 --------------------------------- বাংলাদেশি - জাতীয় চ্যানেল -------------------------------------
 #EXTINF:-1 group-title="বাংলাদেশি" tvg-name="BTV" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/BTV.webp",BTV NATIONAL HD
-https://tvsen6.aynaott.com/opREbXLqJ2HFYPCXTJBa/index.m3u8
 http://172.19.17.4:8090/hls/BTVNationalHD.m3u8
-http://103.165.93.31:8095/btv/tracks-v1a1/mono.m3u8
+
+
 
 
 #EXTINF:-1 group-title="বাংলাদেশি" tvg-name="BTV" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/BTV.webp",BTV World
-https://tvsen6.aynaott.com/opREbXLqJ2HFYPCXTJBa/index.m3u8
-https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8 
+https://srbtv.tv/index.m3u8
+
 
 
 #EXTINF:-1 group-title="বাংলাদেশি" tvg-name="BTV News" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/BTV News.webp",BTV News
-https://tvsen6.aynaott.com/tV8mB2zP7rX4kL1w/index.m3u8
-https://tvsen6.aynaott.com/tV8mB2zP7rX4kL1w/index.m3u8
+http://103.165.93.31:8095/btv/tracks-v1a1/mono.m3u8
+
 
 
 #EXTINF:-1 group-title="বাংলাদেশি" tvg-name="BTV" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/BTV.webp",BTV CTG
@@ -24,7 +24,7 @@ https://tvsen6.aynaott.com/TjGR1GcxKetHNVcMVxbq/index.m3u8
 
 
 #EXTINF:-1 group-title="বাংলাদেশি" tvg-id="228" tvg-name="BTV Shangshad" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/BTV%20Shangshad.webp",BTV Shangshad
-#https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
+https://srbtv.tv/index.m3u8
 
 
 
@@ -32,13 +32,10 @@ https://tvsen6.aynaott.com/TjGR1GcxKetHNVcMVxbq/index.m3u8
 --------------------------------- বাংলাদেশি - সাধারণ বিনোদন চ্যানেল  -------------------------------------
 #EXTINF:-1 group-title="বাংলাদেশি" tvg-id="229" tvg-name="Maasranga TV" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Maasranga%20TV.webp",Maasranga TV
 https://mtv.sunplex.live/MAASRANGA/tracks-v1a1/mono.m3u8
-https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
 
 
 #EXTINF:-1 group-title="বাংলাদেশি" tvg-id="134" tvg-name="Deepto TV" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Deepto TV  HD.webp",Deepto TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
-https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/908678.m3u8
 
 
 #EXTINF:-1 group-title="বাংলাদেশি" tvg-id="134" tvg-name="Bangla TV" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Bangla TV.webp",Bangla TV
@@ -79,17 +76,11 @@ https://live.sanandatelevision.in/sananda/index.m3u8
 
 
 #EXTINF:-1 group-title="বাংলাদেশি" tvg-name="Channel 9" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Channel%209%20HD.webp",Channel 9
-https://tvsen6.aynaott.com/kajlsd57jnkdf/index.m3u8                 ***************************************
-#EXTVLCOPT:http-user-agent=GP-Player/1.0
-https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
-https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/1729.m3u8
+https://srbtv.tv/index.m3u8
 
 
 #EXTINF:-1 group-title="বাংলাদেশি" tvg-id="99" tvg-name="NTV" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/NTV.webp",NTV
 https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8
-https://toffee-obiramtv.emonsa4.workers.dev/08.m3u8
-https://toffee-obiramtv.emonsa4.workers.dev/proxy?url=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fslang%2Fn_tv_576%2Fn_tv_576.m3u8%3Fbitrate%3D1000000%26channel%3Dn_tv_576%26gp_id%3D&cookie=Edge-Cache-Cookie%3DURLPrefix%3DaHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t%3AExpires%3D1786075236%3AKeyName%3Dprod_linear%3ASignature%3DiN1YVOUd1MyFRLkgMvRaXXZs2ddt07EhJjv3CygIpkvcRJHa6_Q0Ww8AdwaoZxccknyyeOM7xbaFocLPaz03DA&ua=okhttp%2F5.1.0
-https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
 
 
 #EXTINF:-1 group-title="বাংলাদেশি" tvg-id="99" tvg-name="NTV Europe" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/NTV.webp",NTV Europe
@@ -242,6 +233,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 
 
 #EXTINF:-1 group-title="বাংলাদেশি" tvg-id="94" tvg-name="Channel 24 HD" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Channel%2024%20HD.webp",Channel 24
+http://103.151.60.188:12345/hls/tab_uojjwq9/index.m3u8?t=1786763882789
 https://tvsen6.aynaott.com/YrVDF8gu/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/1703.m3u8
