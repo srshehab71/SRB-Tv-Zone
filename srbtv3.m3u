@@ -878,6 +878,9 @@ https://tvsen6.aynaott.com/cnn/index.m3u8
 #EXTINF:-1 group-title="খেলাধুলা" tvg-name="T Sports HD" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/T%20SPORTS.webp",T Sports HD
 https://s1.itcnbd.live/T-Sports-HD/tracks-v1a1/mono.m3u8?nocache=1783826412104
 
+#EXTINF:-1 group-title="খেলাধুলা" tvg-name="T Sports HD" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/T%20SPORTS.webp",T Sports HD
+https://livetv.shamon-cable.net:8443/T-Sports-FHD/index.m3u8
+
 
 #EXTINF:-1 group-title="খেলাধুলা" tvg-name="Mahsun Sports" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Mahsun%20Sports.webp",Mahsun Sports
 https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
