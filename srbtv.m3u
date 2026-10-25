@@ -231,7 +231,7 @@ http://172.19.17.4:8090/hls/SonyAtth.m3u8
 https://srbtv.tv/index.m3u8
 
 #EXTINF:-1 group-title="ইন্ডিয়ান" tvg-name="SONY HD" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/SONY%20HD.webp",SONY HD
-http://172.19.17.4:8090/hls/SonyHD.m3u8
+https://srbtv.tv/index.m3u8
 
 
 
@@ -387,57 +387,43 @@ https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453
 
 --------------------------------- ইন্ডিয়ান - নিউজ চ্যানেল -------------------------------------
 #EXTINF:-1 group-title="ইন্ডিয়ান" tvg-name="NEWS18 BANGLA" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/NEWS18%20BANGLA.webp",NEWS18 BANGLA
-https://amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv/playlist/amg01448-samsungin-news18bangla-samsungin/playlist.m3u8
-
+https://srbtv.tv/index.m3u8
 
 #EXTINF:-1 group-title="ইন্ডিয়ান" tvg-name="Times of India" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Times%20of%20India.webp",Times of India
-https://live.sli.ke/live/npnhm84gz9/master.m3u8
-
+https://srbtv.tv/index.m3u8
 
 #EXTINF:-1 group-title="ইন্ডিয়ান" tvg-name="Republic Bangla" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Republic Bangla.webp",Republic Bangla
-https://tvsen5.aynaott.com/qRHda6ax/index.m3u8
-
+https://srbtv.tv/index.m3u8
 
 #EXTINF:-1 group-title="ইন্ডিয়ান" tvg-name="Zee 24 Ghanta" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Zee%2024%20Ghanta.webp",Zee 24 Ghanta
-https://d2dsoyvkr33m05.cloudfront.net/index_4.m3u8
-https://d2dsoyvkr33m05.cloudfront.net/index_1.m3u8
-
+https://srbtv.tv/index.m3u8
 
 #EXTINF:-1 group-title="ইন্ডিয়ান" tvg-name="TV9 Bangla" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/TV9%20Bangla.webp",TV9 Bangla
-https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
-
+https://srbtv.tv/index.m3u8
 
 #EXTINF:-1 group-title="ইন্ডিয়ান" tvg-id="indiatoday.in" tvg-name="India Today" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/India%20Today.webp",India Today
-https://d2lk5u59tns74c.cloudfront.net/out/v1/d4435039c7d1433d9b9d0b6cdc9dd4ff/index.m3u8
-
+https://srbtv.tv/index.m3u8
 
 #EXTINF:-1 group-title="ইন্ডিয়ান" tvg-id="indiatoday.in" tvg-name="Republic TV Bharat" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Republic TV Bharat.webp",Republic TV Bharat
-https://tvsen6.aynaott.com/faGd3tuq/index.m3u8
-
+https://srbtv.tv/index.m3u8
 
 #EXTINF:-1 group-title="ইন্ডিয়ান" tvg-id="indiatoday.in" tvg-name="Bharat Samachar" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Bharat Samachar.webp",Bharat Samachar
-https://tvsen3.aynaott.com/m94BZDYb/index.m3u8
-
+https://srbtv.tv/index.m3u8
 
 #EXTINF:-1 group-title="ইন্ডিয়ান" tvg-id="IndiaTV.in" tvg-name="India TV" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/India%20TV.webp",India TV
-https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index.m3u8
-
+https://srbtv.tv/index.m3u8
 
 #EXTINF:-1 group-title="ইন্ডিয়ান" tvg-id="ZEENews" tvg-name="ZEE News" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/ZEE%20News.webp",ZEE News
-https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
-
+https://srbtv.tv/index.m3u8
 
 #EXTINF:-1 group-title="ইন্ডিয়ান" tvg-id="IndiaTVSpeedNews" tvg-name="India TV Speed News" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/India%20TV%20Speed%20News.webp",India TV Speed News
-https://amg01550-indiatv-indiatv-speed-mi-xiaomi-zgmaw.amagi.tv/playlist/amg01550-indiatv-indiatv-speed-mi-xiaomi/playlist.m3u8
-
+https://srbtv.tv/index.m3u8
 
 #EXTINF:-1 group-title="ইন্ডিয়ান" tvg-id="ndtvenglish" tvg-name="NEWS | NDTV English" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/NEWS%20%20NDTV%20English.webp",NEWS | NDTV English
-https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678-b/ndtv24x7/master.m3u8
-
+https://srbtv.tv/index.m3u8
 
 #EXTINF:-1 group-title="ইন্ডিয়ান" tvg-id="ndtvindia" tvg-name="NDTV Hindi" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/NDTV%20Hindi.webp",NDTV Hindi
-https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiamaster.m3u8
-
+https://srbtv.tv/index.m3u8
 
 
 
@@ -447,21 +433,14 @@ https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiam
 --------------------------------- তথ্য -------------------------------------
 #EXTINF:-1 group-title="তথ্য" tvg-id="discovery" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Discovery HD.webp",Discovery HD
 http://103.165.93.31:8095/discovery/index.m3u8
-https://tvsen3.aynaott.com/Zht5VqBb/index.m3u8
-
-
 
 #EXTINF:-1 group-title="তথ্য" tvg-id="NationalGeographicWild.in@HD" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/National%20Geographic%20Wild%20HD.webp",National Geographic Wild HD
 http://217.20.112.199:8080/natgeowild/index.m3u8
 
-
 #EXTINF:-1 group-title="তথ্য" tvg-name="Animal Planet HD" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Animal%20Planet%20HD.webp",Animal Planet HD
-https://live.bdixbd.net/api/proxy/stream.m3u8?url=http%3A%2F%2F103.151.61.12%2FAnimal_Planet%2Ftracks-v1a1%2Fmono.m3u8%3Ftoken%3Di7bZaZWaFrSIE0
-https://vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
-
+https://srbtv.tv/index.m3u8
 
 #EXTINF:-1 group-title="তথ্য" tvg-id="FoodFood.in@SD" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Food%20Food.webp",Food Food
-https://mumt03.tangotv.in/Dsly5z3HFOODFOOD/index.m3u8
 
 
 #EXTINF:-1 group-title="তথ্য" tvg-name="Nat Geo TV" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/NAT%20GEO.webp",Nat Geo TV
@@ -475,88 +454,67 @@ http://172.19.17.4:8090/hls/NatGeoWild.m3u8
 
 --------------------------------- কার্টুন -------------------------------------
 #EXTINF:-1 group-title="কার্টুন" tvg-name="Rongeen TV" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Rongeen%20TV.webp",Rongeen TV
-https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
-https://cdn-4.pishow.tv/live/1029/master0.m3u8
-https://cdn-4.pishow.tv/live/1029/master.m3u8
-
+https://srbtv.tv/index.m3u8
 
 #EXTINF:-1 group-title="কার্টুন" tvg-name="Khushboo" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Khushboo.webp",Khushboo
-https://cdn-4.pishow.tv/live/1473/master.m3u8
-
+https://srbtv.tv/index.m3u8
 
 #EXTINF:-1 group-title="কার্টুন" tvg-name="ZB Cartoon" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/ZB%20Cartoon.webp",ZB Cartoon
-https://server.zillarbarta.com/zbcatun/video.m3u8
-
+https://srbtv.tv/index.m3u8
 
 #EXTINF:-1 group-title="কার্টুন" tvg-name="Gopal Bhar TV" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Gopal%20Bhar%20TV.webp",Gopal Bhar TV
-https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
-
+https://srbtv.tv/index.m3u8
 
 #EXTINF:-1 group-title="কার্টুন" tvg-name="Motu Patlu" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Motu%20Patlu.webp",Motu Patlu
-https://live20.bozztv.com/giatvplayout7/giatv-209622/tracks-v1a1/mono.ts.m3u8
-
+https://srbtv.tv/index.m3u8
 
 #EXTINF:-1 group-title="কার্টুন" tvg-name="Doraemon TV" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Doraemon%20TV.webp",Doraemon TV
-https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8
-
+https://srbtv.tv/index.m3u8
 
 #EXTINF:-1 group-title="কার্টুন" tvg-name="Hooray Rhymes" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Hooray%20Rhymes.webp",Hooray Rhymes
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ec031d1f-2217-4dd0-9c8a-ca8f00a8c31f/playlist.m3u8?hdnts=st%3D1783670635~exp%3D1783692235~acl%3D%21%2A%2Fsg%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fec031d1f-2217-4dd0-9c8a-ca8f00a8c31f%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_172.184.174.117_yuppfast_2_channel_323_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_172.184.174.117_yuppfast_2_channel_323_-1~hmac%3Dc4a0d1de6c68a0343ae7b750822b2667c7328bb424714048bc14346f5aa80e09
-
+https://srbtv.tv/index.m3u8
 
 #EXTINF:-1 group-title="কার্টুন" tvg-name="Nickjr" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Nickjr.webp",Nickjr
-https://tvsen3.aynaott.com/LqCU7kXU/index.m3u8
-
+http://103.165.93.31:8095/nickJr/index.m3u8
 
 #EXTINF:-1 group-title="কার্টুন" tvg-name="Disney Junior" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Disney Junior.webp",Disney Junior
-https://tvsen3.aynaott.com/aM7qKqq7/index.m3u8
-
+https://srbtv.tv/index.m3u8
 
 #EXTINF:-1 group-title="কার্টুন" tvg-name="Jungle Book" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Jungle%20Book.webp",Jungle Book
-https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
-
+https://srbtv.tv/index.m3u8
 
 #EXTINF:-1 group-title="কার্টুন" tvg-id="UniqueTV.in@SD" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Unique%20TV.webp",Unique TV
-https://mumt05.tangotv.in/87NeALx2UNIQUETV/index.m3u8
-
+https://srbtv.tv/index.m3u8
 
 #EXTINF:-1 group-title="কার্টুন" tvg-name="PBS Kids" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/PBS%20Kids.webp",PBS Kids
-https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
-
+https://srbtv.tv/index.m3u8
 
 #EXTINF:-1 group-title="কার্টুন" tvg-name="Tom & Jerry TV" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Tom%20%26%20Jerry%20TV.webp",Tom & Jerry TV
-https://live20.bozztv.com/giatvplayout7/giatv-208314/tracks-v1a1/mono.ts.m3u8
-https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
-
+https://srbtv.tv/index.m3u8
 
 #EXTINF:-1 group-title="কার্টুন" tvg-name="Cartoon Network" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Cartoon%20Network%20English.webp",Cartoon Network
-https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
-
+http://103.165.93.31:8095/cartoonNetwork/index.m3u8
 
 #EXTINF:-1 group-title="কার্টুন" tvg-name="Kiddo" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Kiddo.webp",Kiddo
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/5bcf9d24-04f2-401d-a93f-7af54f29461a/manifest.m3u8?hdnts=st%3D1783670634~exp%3D1783692234~acl%3D%21%2A%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F5bcf9d24-04f2-401d-a93f-7af54f29461a%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_172.184.174.117_yuppfast_2_channel_83_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_172.184.174.117_yuppfast_2_channel_83_-1~hmac%3D8f10bc447b726a0ee743d3ff10989f0d9da538fee4de04489e01a38abae9580b
-
+https://srbtv.tv/index.m3u8
 
 #EXTINF:-1 group-title="কার্টুন" tvg-name="Cartoon TV Classics" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Cartoon%20TV%20Classics.webp",Cartoon TV Classics
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d5543c06-5122-49a7-9662-32187f48aa2c/manifest.m3u8?hdnts=st%3D1783670635~exp%3D1783692235~acl%3D%21%2A%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fd5543c06-5122-49a7-9662-32187f48aa2c%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_172.184.174.117_yuppfast_2_channel_48_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_172.184.174.117_yuppfast_2_channel_48_-1~hmac%3Df618e2e6601d11bde9f847fcf710968f38c3ad35f4684c2e9de95f07c365aa45
-
+https://srbtv.tv/index.m3u8
 
 #EXTINF:-1 group-title="কার্টুন" tvg-id="PequesTV.pe@SD" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Peques%20TV.webp",Peques TV
-https://live-evg7.tv360.bitel.com.pe/bitel/pequestv/playlist.m3u8
-
+https://srbtv.tv/index.m3u8
 
 #EXTINF:-1 group-title="কার্টুন" tvg-id="FillkaTv" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/FILLKA%20TV.webp",Fillka Tv
-https://live-evg5.tv360.bitel.com.pe/bitel/fillka/playlist.m3u8
-
+https://srbtv.tv/index.m3u8
 
 
 
