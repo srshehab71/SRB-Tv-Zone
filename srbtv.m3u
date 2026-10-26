@@ -330,7 +330,7 @@ http://103.175.73.12:8080/live/345/345_0.m3u8
 https://srbtv.tv/index.m3u8
 
 #EXTINF:-1 group-title="ইন্ডিয়ান" tvg-name="B4U Movies" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/B4U%20Movies.webp",B4U Movies
-
+https://srbtv.tv/index.m3u8
 
 #EXTINF:-1 group-title="ইন্ডিয়ান" tvg-id="BigMagic.in@SD" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Big%20Magic.webp",Big Magic
 https://srbtv.tv/index.m3u8
