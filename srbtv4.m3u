@@ -641,6 +641,8 @@ https://srbtv4.tv/index.m3u8
 --------------------------------- খেলাধুলা -------------------------------------
 #EXTINF:-1 group-title="খেলাধুলা" tvg-name="T Sports HD" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/T%20SPORTS.webp",T Sports HD
 https://livetv.shamon-cable.net:8443/T-Sports-FHD/index.m3u8
+#EXTINF:-1 group-title="খেলাধুলা" tvg-name="T Sports HD" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/T%20SPORTS.webp",T Sports HD
+https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8
 
 #EXTINF:-1 group-title="খেলাধুলা" tvg-name="Mahsun Sports" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Mahsun%20Sports.webp",Mahsun Sports
 https://srbtv4.tv/index.m3u8
