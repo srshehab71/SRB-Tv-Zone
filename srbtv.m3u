@@ -31,6 +31,9 @@ http://103.165.93.31:8095/deepto/index.m3u8
 #EXTINF:-1 group-title="বাংলাদেশি" tvg-id="Bangla TV" tvg-name="Bangla TV" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Bangla TV.webp",Bangla TV
 http://103.151.60.188:12345/hls/tab_g8uvlw9/index.m3u8?t=1786971119865
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/g06jByt1/entertv.jpg" group-title="Bangla",EnterTV
+https://srbtv.tv/index.m3u8
+
 #EXTINF:-1 group-title="বাংলাদেশি" tvg-id="Thikana" tvg-name="Thikana" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Thikana.webp",Thikana
 https://srbtv.tv/index.m3u8
 
