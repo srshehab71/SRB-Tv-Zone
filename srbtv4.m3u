@@ -125,6 +125,8 @@ https://srbtv4.tv/index.m3u8
 
 #EXTINF:-1 group-title="বাংলাদেশি" tvg-name="Movie Bangla" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Movie%20Bangla.webp",Movie Bangla
 https://footfytv.pro/proxy/direct?url=http://alvetv.com/moviebanglatv/8080/index.m3u8
+#EXTINF:-1 group-title="বাংলাদেশি" tvg-name="Movie Bangla" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Movie%20Bangla.webp",Movie Bangla
+https://stream.ottplus.live/live/movie_bangla_abr/index.m3u8
 
 #EXTINF:-1 group-title="বাংলাদেশি" tvg-name="ME TV" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/ME%20TV.webp",ME TV
 https://srbtv4.tv/index.m3u8
