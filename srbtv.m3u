@@ -43,6 +43,9 @@ https://srbtv.tv/index.m3u8
 #EXTINF:-1 group-title="বাংলাদেশি" tvg-name="Deshe Bideshe" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Deshe%20Bideshe.webp",Deshe Bideshe
 https://srbtv.tv/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-26/images_9b7bab426198d5e39dea4b494cad717b_playmist_channel52.jpg" group-title="Bangla",Channel 52 TV
+https://srbtv.tv/index.m3u8
+
 
 
 
