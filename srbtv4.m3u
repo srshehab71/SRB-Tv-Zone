@@ -455,7 +455,7 @@ https://srbtv4.tv/index.m3u8
 
 --------------------------------- তথ্য -------------------------------------
 #EXTINF:-1 group-title="তথ্য" tvg-id="discovery" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Discovery HD.webp",Discovery HD
-https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
+https://drk6xq0vhn.gpcdn.net/live/discovery_sd_abr/index.m3u8
 
 #EXTINF:-1 group-title="তথ্য" tvg-id="NationalGeographicWild.in@HD" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/National%20Geographic%20Wild%20HD.webp",National Geographic Wild HD
 https://srbtv4.tv/index.m3u8
@@ -482,7 +482,7 @@ https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 https://cdn-4.pishow.tv/live/1029/master0.m3u8
 
 #EXTINF:-1 group-title="কার্টুন" tvg-name="Khushboo" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Khushboo.webp",Khushboo
-https://srbtv4.tv/index.m3u8
+https://mumt01.tangotv.in/O5aw8Zn3KHUSHBOOTVBANGLA/index.m3u8
 
 #EXTINF:-1 group-title="কার্টুন" tvg-name="ZB Cartoon" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/ZB%20Cartoon.webp",ZB Cartoon
 https://srbtv4.tv/index.m3u8
@@ -576,13 +576,13 @@ https://srbtv4.tv/index.m3u8
 https://srbtv4.tv/index.m3u8
 
 #EXTINF:-1 group-title="গান" tvg-name="B4U Music" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/B4U%20Music.webp",B4U Music
-https://srbtv4.tv/index.m3u8
+https://streams.tangotv.in/B4UMUSIC/ORIGIN/index.m3u8
 
 #EXTINF:-1 group-title="গান" tvg-name="Zoom" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Zoom.webp",Zoom
 https://srbtv4.tv/index.m3u8
 
 #EXTINF:-1 group-title="গান" tvg-name="E24" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/E24.webp",E24
-https://srbtv4.tv/index.m3u8
+https://mumt04.tangotv.in/m18aqlK4E24/index.m3u8
 
 #EXTINF:-1 group-title="গান" tvg-id="DesiChannel.in@SD" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Desi%20Channel.webp",Desi Channel
 https://srbtv4.tv/index.m3u8
@@ -637,7 +637,7 @@ https://srbtv4.tv/index.m3u8
 https://srbtv4.tv/index.m3u8
 
 #EXTINF:-1 group-title="ইংরেজি" tvg-id="85" tvg-name="DW News" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/DW News.webp",DW News
-https://srbtv4.tv/index.m3u8
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream02/streamPlaylist.m3u8
 
 #EXTINF:-1 group-title="ইংরেজি" tvg-id="85" tvg-name="CNN" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/CNN.webp",CNN
 https://srbtv4.tv/index.m3u8
