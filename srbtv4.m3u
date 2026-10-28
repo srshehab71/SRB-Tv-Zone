@@ -335,7 +335,7 @@ https://srbtv4.tv/index.m3u8
 https://streams.tangotv.in/GOLDMINESBOLLYWOOD/ORIGIN/index.m3u8
 
 #EXTINF:-1 group-title="ইন্ডিয়ান" tvg-id="ColorsCineplex.in@SD" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Colors%20Cineplex.webp",Colors Cineplex
-https://srbtv4.tv/index.m3u8
+https://d1rc86nwwc9fag.cloudfront.net/260723/smil:rishteycineplexukdev.smil/chunklist_b1928000.m3u8
 
 #EXTINF:-1 group-title="ইন্ডিয়ান" tvg-id="ZeeCinema.in@ME" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Zee%20Cinema%20ME.webp",Zee Cinema ME
 https://livetv.shamon-cable.net:8443/Z-Cinema/index.m3u8
@@ -344,13 +344,13 @@ https://livetv.shamon-cable.net:8443/Z-Cinema/index.m3u8
 https://srbtv4.tv/index.m3u8
 
 #EXTINF:-1 group-title="ইন্ডিয়ান" tvg-name="Manoranjan Movies" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Manoranjan%20Movies.webp",Manoranjan Movies
-https://srbtv4.tv/index.m3u8
+https://mumt04.tangotv.in/m18aqlK4MANORANJANMOVIES/index.m3u8
 
 #EXTINF:-1 group-title="ইন্ডিয়ান" tvg-name="Manoranjan Prime" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Manoranjan%20Prime.webp",Manoranjan Prime
-https://srbtv4.tv/index.m3u8
+https://mumt06.tangotv.in/qYyB8fXVMANORANJANPRIME/index.m3u8
 
 #EXTINF:-1 group-title="ইন্ডিয়ান" tvg-name="B4U Kadak" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/B4U%20Kadak.webp",B4U Kadak
-https://srbtv4.tv/index.m3u8
+https://streams.tangotv.in/B4UKADAK/ORIGIN/index.m3u8
 
 #EXTINF:-1 group-title="ইন্ডিয়ান" tvg-name="B4U Movies" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/B4U%20Movies.webp",B4U Movies
 https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/playlist.m3u8
@@ -359,13 +359,13 @@ https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/playlist
 https://srbtv4.tv/index.m3u8
 
 #EXTINF:-1 group-title="ইংরেজি" tvg-name="AND PICTURE" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/AND%20PICTURE.webp",AND PICTURE
-https://srbtv4.tv/index.m3u8
+https://drk6xq0vhn.gpcdn.net/live/and_picture_hd_abr/index.m3u8
 
 #EXTINF:-1 group-title="ইন্ডিয়ান" tvg-name="Goldmines Movies" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Goldmines%20Movies.webp",Goldmines Movies
-https://srbtv4.tv/index.m3u8
+https://streams.tangotv.in/GOLDMINEMOVIES/ORIGIN/index.m3u8
 
 #EXTINF:-1 group-title="ইন্ডিয়ান" tvg-id="Goldmines2.in@SD" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Goldmines%202.webp",Goldmines 2
-https://srbtv4.tv/index.m3u8
+https://mumt03.tangotv.in/Dsly5z3HGOLDMINES2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="ইন্ডিয়ান" tvg-id="BhojpuriCinema.in@SD" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Bhojpuri%20Cinema.webp",Bhojpuri Cinema
 https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
@@ -395,7 +395,7 @@ https://srbtv4.tv/index.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://srbtv4.tv/index.m3u8
+https://mumt01.tangotv.in/O5aw8Zn3VANITHA/index.m3u8
 
 #EXTINF:-1 group-title="ইন্ডিয়ান" tvg-id="Mahua Play" tvg-name="Mahua Play" tvg-logo="https://raw.githubusercontent.com/srshehab71/SRB-Tv-Zone/main/LOGO/Mahua%20Play.webp",Mahua Play
 #KODIPROP:inputstream=inputstream.adaptive
